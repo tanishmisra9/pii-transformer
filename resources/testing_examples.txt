@@ -1,0 +1,3000 @@
+I spent the afternoon at 159 North Pawlet Road helping with the garden.  
+[[25, 46, 'HOME_ADDRESS']]
+
+I went to 31 Mitchell Road to return the movie I borrowed last week.  
+[[10, 26, 'HOME_ADDRESS']]
+
+The neighbors at 33655 5th Street are very friendly.
+[[17, 33, 'HOME_ADDRESS']]
+
+They’ve been living at 85 West Seymeria Drive for five years now.  
+[[23, 45, 'HOME_ADDRESS']]
+
+We stopped by 7541 Florence Circle to pick up some things before heading out.  
+[[14, 34, 'HOME_ADDRESS']]
+
+We had a family dinner at 295 Townes Drive, enjoying everyone’s company.  
+[[26, 42, 'HOME_ADDRESS']]
+
+I left my jacket at 102 Derondo Street after the party.
+[[20, 38, 'HOME_ADDRESS']]
+
+My family’s vacation home is located at 3125 Willow Lane Drive.
+[[40, 62, 'HOME_ADDRESS']]
+
+I stayed at 910 Arlington Terrace while I was between apartments.  
+[[12, 33, 'HOME_ADDRESS']]
+
+I received a package at 2076 North Crossover Road from my online order.  
+[[24, 49, 'HOME_ADDRESS']]
+
+I stopped by 7427 West Abraham Lane to return the tools I borrowed earlier.  
+[[13, 35, 'HOME_ADDRESS']]
+
+We spent the afternoon at 4709 Blagden Terrace Northwest, working on home repairs.  
+[[26, 56, 'HOME_ADDRESS']]
+
+I noticed they got a new mailbox at 1352 Purdue Street.  
+[[36, 54, 'HOME_ADDRESS']]
+
+We spent the afternoon at 464 Springfield Street working on some DIY projects.  
+[[26, 48, 'HOME_ADDRESS']]
+
+I went to 5150 West Eugie Avenue to help clean up the attic.  
+[[10, 32, 'HOME_ADDRESS']]
+
+I spent the day at 2400 Merry Street with my cousins, catching up.  
+[[19, 36, 'HOME_ADDRESS']]
+
+I went over to 332 Stafford Road to drop off the extra snacks I made.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I went to 2209 June Drive to check if they needed help with some home repairs.  
+[[10, 25, 'HOME_ADDRESS']]
+
+I noticed they planted new flowers in the front yard at 4207 Ranch Drive.  
+[[56, 72, 'HOME_ADDRESS']]
+
+I stopped by 1744 Shoreham Drive to see their new plants in the garden.  
+[[13, 32, 'HOME_ADDRESS']]
+
+We went to 6100 Bullard Drive for a fun dinner with a few close friends.  
+[[11, 29, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 836 Lamont Street Northwest.
+[[42, 69, 'HOME_ADDRESS']]
+
+The living room at 4112 Rockdale Street has huge windows that overlook the garden.  
+[[19, 39, 'HOME_ADDRESS']]
+
+I went to 125 Summer Street to help clean the backyard.  
+[[10, 27, 'HOME_ADDRESS']]
+
+We had a cozy night at 3720 West 86th Avenue with a movie marathon.  
+[[23, 44, 'HOME_ADDRESS']]
+
+We spent the day at 1328 Tuckerman Street Northwest, organizing the pantry and closets.  
+[[20, 51, 'HOME_ADDRESS']]
+
+I helped paint the kitchen cabinets at 66 Pine Street last Saturday.  
+[[39, 53, 'HOME_ADDRESS']]
+
+We stayed at 46710 Crawford Street when we visited the city for the holidays.  
+[[13, 34, 'HOME_ADDRESS']]
+
+We spent the weekend at 856 Milton Street working on home improvements.  
+[[24, 41, 'HOME_ADDRESS']]
+
+I stayed at 8315 Surf Drive for a week while my house was being renovated.  
+[[12, 27, 'HOME_ADDRESS']]
+
+I’m planning to visit 91 85th Avenue next week for a special occasion.  
+[[22, 36, 'HOME_ADDRESS']]
+
+I visited 75 Wilfred Road to check on their new plants in the garden.  
+[[10, 25, 'HOME_ADDRESS']]
+
+I went over to 110 Castle Hill to help them decorate for the holidays.  
+[[15, 30, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 20930 Todd Valley Road, catching up on everything.  
+[[26, 48, 'HOME_ADDRESS']]
+
+The school bus picks up students from 18 Densmore Drive every day.
+[[38, 55, 'HOME_ADDRESS']]
+
+They invited me to a small get-together at 8 Chestnut Street next week.  
+[[43, 60, 'HOME_ADDRESS']]
+
+I went over to 45 Parsons Avenue to help them arrange the furniture in the living room.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I spent the weekend at 6201 West Olive Avenue helping them clean up the garden.  
+[[23, 45, 'HOME_ADDRESS']]
+
+I met some old friends at 9302 West 58th Avenue for a reunion last night.  
+[[26, 47, 'HOME_ADDRESS']]
+
+I stayed at 25 Morton Street while I was between apartments.  
+[[12, 28, 'HOME_ADDRESS']]
+
+We spent the weekend at 875 Latouche Street working on a home project.  
+[[24, 43, 'HOME_ADDRESS']]
+
+I walked by 376 Whites Road and noticed they installed a new porch swing.  
+[[12, 27, 'HOME_ADDRESS']]
+
+I spent the afternoon at 3949 Ethan Allen Highway, helping with a home improvement project.  
+[[25, 49, 'HOME_ADDRESS']]
+
+I went over to 102 East Ash Road to help organize their closet.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I stayed at 529 Barr Hill Road while my friends were on vacation to take care of their plants.  
+[[12, 30, 'HOME_ADDRESS']]
+
+We hosted a backyard party at 13066 North 56th Avenue for my sister’s birthday.  
+[[30, 53, 'HOME_ADDRESS']]
+
+The neighbors at 6716 South Mariposa Lane planted flowers in their garden this spring.  
+[[17, 41, 'HOME_ADDRESS']]
+
+We had a small dinner at 9401 3rd Street Road and caught up on life.  
+[[25, 45, 'HOME_ADDRESS']]
+
+I helped my friend pack up their old furniture at 9401 3rd Street Road before moving.  
+[[50, 70, 'HOME_ADDRESS']]
+
+I helped my friend with unpacking at 16572 East Wyman Road during the weekend.  
+[[37, 58, 'HOME_ADDRESS']]
+
+They’re planning a backyard barbecue at 30451 Servilla Place this Saturday.  
+[[40, 60, 'HOME_ADDRESS']]
+
+They threw a surprise birthday party for me at 6473 Zephyr Street last weekend.  
+[[47, 65, 'HOME_ADDRESS']]
+
+I went over to 7405 River Park Drive to help them decorate for the holidays.  
+[[15, 36, 'HOME_ADDRESS']]
+
+We had a birthday party at 404 Ramble Wood Circle for my mom.
+[[27, 49, 'HOME_ADDRESS']]
+
+I received a package at 8522 Ingalls Circle from my online order.  
+[[24, 43, 'HOME_ADDRESS']]
+
+We had a cozy evening at 208 Kinnaird Lane, eating snacks and watching TV.  
+[[25, 42, 'HOME_ADDRESS']]
+
+I stopped by 1820 Scenic Avenue to bring them some fresh-baked cookies.  
+[[13, 31, 'HOME_ADDRESS']]
+
+We had a picnic in the backyard at 86 Pine Street to celebrate the weekend.  
+[[35, 49, 'HOME_ADDRESS']]
+
+I noticed they put up new outdoor lights at 7981 Robinson Way.  
+[[44, 61, 'HOME_ADDRESS']]
+
+They just repainted the walls at 208 Waterford Drive and it looks fantastic.  
+[[33, 52, 'HOME_ADDRESS']]
+
+I visited 7804 Abercorn Street to check on their new plants in the garden.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I stayed at 5410 McLean Drive for a week while my apartment was being painted.  
+[[12, 29, 'HOME_ADDRESS']]
+
+I went to 4486 U.S. 5 to help them unpack after moving in.  
+[[10, 21, 'HOME_ADDRESS']]
+
+We celebrated my aunt’s birthday at 8401 Pinewood Drive last weekend.  
+[[36, 55, 'HOME_ADDRESS']]
+
+I’m meeting my friends at 4503 North Council Road to plan the surprise party.  
+[[26, 49, 'HOME_ADDRESS']]
+
+We hosted a movie night at 1200 S Street with a big bowl of popcorn.  
+[[27, 40, 'HOME_ADDRESS']]
+
+We had a small gathering at 320 South Ramblin Oaks Drive for my cousin’s graduation.  
+[[28, 56, 'HOME_ADDRESS']]
+
+We used to visit my grandmother’s house at 6534 Benton Circle every holiday.
+[[43, 61, 'HOME_ADDRESS']]
+
+I came across an old letter addressed to 5436 Dorbrandt Street.
+[[41, 62, 'HOME_ADDRESS']]
+
+I helped my aunt decorate for the holidays at 222 Rockcrest Way.  
+[[46, 63, 'HOME_ADDRESS']]
+
+The house at 4296 North Blossom Court has a large attic that’s perfect for storage.  
+[[13, 37, 'HOME_ADDRESS']]
+
+I stopped by 10332 Thuja Circle to pick up the book I borrowed.  
+[[13, 31, 'HOME_ADDRESS']]
+
+I went over to 6 Little Country Place to help set up their new entertainment system.  
+[[15, 37, 'HOME_ADDRESS']]
+
+We spent the day at 3821 Southwest 25th Street, getting ready for the holidays.  
+[[20, 46, 'HOME_ADDRESS']]
+
+The living room at 430 Cornish Drive has a beautiful view of the city skyline.  
+[[19, 36, 'HOME_ADDRESS']]
+
+The children at 815 West Market Street love playing with their new puppy in the yard.  
+[[16, 38, 'HOME_ADDRESS']]
+
+I spent the weekend at 5170 Hickory Hollow Parkway catching up with old friends.  
+[[23, 50, 'HOME_ADDRESS']]
+
+I went to 26 Seaman Circle to borrow some tools for the yard work.  
+[[10, 26, 'HOME_ADDRESS']]
+
+The house at 2278 North Windswept Lane has a beautiful wooden staircase that leads to the second floor.  
+[[13, 38, 'HOME_ADDRESS']]
+
+The realtor showed me the house at 402 Tuten Avenue.
+[[35, 51, 'HOME_ADDRESS']]
+
+We had a cozy family dinner at 112 Shannon Road, enjoying great food.  
+[[31, 47, 'HOME_ADDRESS']]
+
+We went for a walk around the block near 8159 West 81st Avenue and explored the area.  
+[[41, 62, 'HOME_ADDRESS']]
+
+I was invited to an anniversary celebration at 1309 Columbia Road Northwest this weekend.  
+[[47, 75, 'HOME_ADDRESS']]
+
+We took a walk around 5514 West Wedington Drive and admired the neighborhood.  
+[[22, 47, 'HOME_ADDRESS']]
+
+I visited 10638 Happyville Road to catch up with an old friend.  
+[[10, 31, 'HOME_ADDRESS']]
+
+She sent a thank-you card to 27 Leary Drive after the event.
+[[29, 43, 'HOME_ADDRESS']]
+
+I went over to 3298 Chestnut Street Northwest to help with the backyard cleanup.  
+[[15, 45, 'HOME_ADDRESS']]
+
+I met some old friends at 880 H Street for a reunion last night.  
+[[26, 38, 'HOME_ADDRESS']]
+
+We went for a walk around the neighborhood near 422 C Street Northeast and enjoyed the sunny weather.  
+[[48, 70, 'HOME_ADDRESS']]
+
+I stopped by 119 Captain Chase Road to check on the progress of their renovations.  
+[[13, 35, 'HOME_ADDRESS']]
+
+We celebrated my birthday at 217 West Congress Street with a big surprise party.  
+[[29, 53, 'HOME_ADDRESS']]
+
+I invited a few friends over to 152 Holly Court for a dinner gathering.  
+[[32, 47, 'HOME_ADDRESS']]
+
+We had a great time at 178 Old Homestead Road, playing board games and chatting.  
+[[23, 45, 'HOME_ADDRESS']]
+
+The neighbors at 1915 Southeast 29th Street are very friendly.
+[[17, 43, 'HOME_ADDRESS']]
+
+We celebrated my cousin’s birthday at 1405 Tolkien Drive.
+[[38, 56, 'HOME_ADDRESS']]
+
+We had a great time at 6286 West Louise Drive playing games and having fun.  
+[[23, 45, 'HOME_ADDRESS']]
+
+I noticed they got a new mailbox at 233 Ingraham Street Northwest.  
+[[36, 65, 'HOME_ADDRESS']]
+
+We had a family dinner at 3612 Jim Robison Drive, enjoying everyone’s company.  
+[[26, 48, 'HOME_ADDRESS']]
+
+I took my dog for a walk around 711 Parker Street.
+[[32, 49, 'HOME_ADDRESS']]
+
+I visited 1417 Stoneykirk Road to help with some home repairs.  
+[[10, 30, 'HOME_ADDRESS']]
+
+We used to walk to school from 2147 Millhaven Drive every day.
+[[31, 51, 'HOME_ADDRESS']]
+
+I went to 2200 East Victory Drive to help them set up a new coffee table.  
+[[10, 33, 'HOME_ADDRESS']]
+
+I went to 1806 Boscobel Street to help install new light fixtures in the bathroom.  
+[[10, 30, 'HOME_ADDRESS']]
+
+We had a cozy evening at 102 Hayes Drive, eating snacks and watching TV.  
+[[25, 40, 'HOME_ADDRESS']]
+
+I stayed at 599 Cambridge Street while my friends were on vacation to take care of their plants.  
+[[12, 32, 'HOME_ADDRESS']]
+
+I stayed at 645 Governor Bridge Road while I was between apartments.  
+[[12, 36, 'HOME_ADDRESS']]
+
+I went to 218 Oleander Drive to help install new light fixtures in the bathroom.  
+[[10, 28, 'HOME_ADDRESS']]
+
+We spent the weekend at 262 Mitchell Street cleaning the house together.  
+[[24, 43, 'HOME_ADDRESS']]
+
+I went to 42 Lake Lane to help them set up the new home office.  
+[[10, 22, 'HOME_ADDRESS']]
+
+I went over to 95 Woods Hill Road to help set up a new home office.  
+[[15, 33, 'HOME_ADDRESS']]
+
+I visited 10774 West 54th Lane to help my friend unpack their moving boxes.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I spent the evening at 2375 South School Avenue decorating for the upcoming holiday.  
+[[23, 47, 'HOME_ADDRESS']]
+
+We had a cozy movie night at 2411 Alteras Drive with popcorn and drinks.  
+[[29, 47, 'HOME_ADDRESS']]
+
+I went over to 1920 Bladensburg Road Northeast to help set up their new office chair.  
+[[15, 46, 'HOME_ADDRESS']]
+
+The delivery package was addressed to 12061 Johns Road.
+[[38, 54, 'HOME_ADDRESS']]
+
+I visited 2185 Howe Pond Road to help them set up a new lamp in the living room.  
+[[10, 29, 'HOME_ADDRESS']]
+
+I went to 12283 Thomas Lane for a family dinner and it was delicious.  
+[[10, 27, 'HOME_ADDRESS']]
+
+We went to the park near 1516 Ringe Drive and had a wonderful time.  
+[[25, 41, 'HOME_ADDRESS']]
+
+I went over to 6276 Devinney Circle to help organize their closet.  
+[[15, 35, 'HOME_ADDRESS']]
+
+I went to 713 Ringgold Drive to help clean up the attic.  
+[[10, 28, 'HOME_ADDRESS']]
+
+I noticed the new backyard deck at 8447 West 51st Avenue and it looks amazing.  
+[[35, 56, 'HOME_ADDRESS']]
+
+I stayed at 11507 East Neville Avenue for a few days while my car was being repaired.  
+[[12, 37, 'HOME_ADDRESS']]
+
+I stopped by 10406 Sunlight Lane to help with the front yard cleanup.  
+[[13, 32, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 1424 Winter Avenue, catching up with each other.  
+[[26, 44, 'HOME_ADDRESS']]
+
+I visited 145 Grau Drive to help clean up after their moving day.  
+[[10, 24, 'HOME_ADDRESS']]
+
+I went over to 2195 Cantelou Road to help with the backyard cleanup.  
+[[15, 33, 'HOME_ADDRESS']]
+
+We spent the evening at 5624 Oakes Drive, chatting and having a good time.  
+[[24, 40, 'HOME_ADDRESS']]
+
+We spent the weekend at 6902 West Sherri Jean Lane working on a home project.  
+[[24, 50, 'HOME_ADDRESS']]
+
+I visited a friend’s new place at 3115 Cherokee Drive last night.  
+[[34, 53, 'HOME_ADDRESS']]
+
+I spent the afternoon at 6244 Sun River Drive with my aunt, baking cookies.  
+[[25, 45, 'HOME_ADDRESS']]
+
+I went to 2917 Danzig Place to help with installing new kitchen appliances.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I noticed they put up new shutters at 6902 West Sherri Jean Lane last week.  
+[[38, 64, 'HOME_ADDRESS']]
+
+We held a small wedding reception at 6420 Via Baron for our family and friends.  
+[[37, 51, 'HOME_ADDRESS']]
+
+I went to 8390 Alkire Street to help clean up the kitchen after dinner.  
+[[10, 28, 'HOME_ADDRESS']]
+
+They decided to rent out their property at 2314 Marian Bay Circle.
+[[43, 65, 'HOME_ADDRESS']]
+
+I visited 3041 West Marigold Drive to help organize the laundry room.  
+[[10, 34, 'HOME_ADDRESS']]
+
+We’ve been remodeling the kitchen at 800 West Street to give it a fresh look.  
+[[37, 52, 'HOME_ADDRESS']]
+
+I went to 8467 Chase Drive to visit my friend and see how they’ve been settling in.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I helped my friend rearrange the furniture at 424 North Powderhorn Drive.  
+[[46, 72, 'HOME_ADDRESS']]
+
+I stopped by 1160 North College Avenue to drop off some freshly baked cookies.  
+[[13, 38, 'HOME_ADDRESS']]
+
+The neighbors are hosting a block party at 4253 San Juan Avenue this Saturday.
+[[43, 63, 'HOME_ADDRESS']]
+
+I spent the afternoon at 22062 Cameron Street organizing the bookshelves.  
+[[25, 45, 'HOME_ADDRESS']]
+
+The house at 10891 Kamishak Bay Circle has an amazing view of the ocean.  
+[[13, 38, 'HOME_ADDRESS']]
+
+We had a cozy family gathering at 1710 East Harold Street over the weekend.  
+[[34, 57, 'HOME_ADDRESS']]
+
+I went to 7111 North 75th Avenue to borrow a ladder to fix my roof.  
+[[10, 32, 'HOME_ADDRESS']]
+
+We had a barbecue at 143 Main Street with friends and family.  
+[[21, 36, 'HOME_ADDRESS']]
+
+I helped my friend rearrange the furniture at 8526 Preston Highway last weekend.  
+[[46, 66, 'HOME_ADDRESS']]
+
+The house at 9920 West 81st Avenue is surrounded by tall trees and a garden.  
+[[13, 34, 'HOME_ADDRESS']]
+
+I stopped by 18505 Onyx Avenue to drop off some fresh flowers for their garden.  
+[[13, 30, 'HOME_ADDRESS']]
+
+We had a family reunion at 5611 North 61st Avenue and it was so much fun.  
+[[27, 49, 'HOME_ADDRESS']]
+
+I went to 3538 Mendenhall Court to help them clean out the garage.  
+[[10, 31, 'HOME_ADDRESS']]
+
+We had a small family gathering at 7310 East Chester Heights Circle to celebrate.  
+[[35, 67, 'HOME_ADDRESS']]
+
+We had a small family gathering at 5921 Ashwood Bluff Drive to celebrate.  
+[[35, 59, 'HOME_ADDRESS']]
+
+We spent the afternoon at 93 Marble Hill Road fixing up the garden.They put up new lighting in the front yard of 93 Marble Hill Road.  
+[[26, 45, 'HOME_ADDRESS']]
+
+I visited 2928 Avon Road to check on the home repairs they were having done.  
+[[10, 24, 'HOME_ADDRESS']]
+
+I went to 3784 Milky Way Drive to help clean up the attic.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I noticed they planted new flowers in the front yard at 3823 Shannon Run Trail.  
+[[56, 78, 'HOME_ADDRESS']]
+
+We went to the local café near 416 Ridge Street Northwest for coffee and croissants.  
+[[31, 57, 'HOME_ADDRESS']]
+
+I spent the weekend at 3408 Bellisima Place helping with the renovation.  
+[[23, 43, 'HOME_ADDRESS']]
+
+I spent the weekend at 204 Blue Hills Drive helping them with home repairs.  
+[[23, 43, 'HOME_ADDRESS']]
+
+I dropped my keys while walking to 5436 Dorbrandt Street.
+[[35, 56, 'HOME_ADDRESS']]
+
+I went to 600 West North Street to help my friend assemble their new furniture.  
+[[10, 31, 'HOME_ADDRESS']]
+
+I ran into my childhood friend at 555 North Dupont Avenue last night.  
+[[34, 57, 'HOME_ADDRESS']]
+
+The neighborhood near 8112 Equestrian Drive is known for its parks.
+[[22, 43, 'HOME_ADDRESS']]
+
+I went over to 8506 Laviento Drive to help with cleaning out their garage.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I visited 832 51st Street Northeast to check out the new backyard pool.  
+[[10, 35, 'HOME_ADDRESS']]
+
+We’re planning a family reunion at 643 Farragut Street Northwest this year.
+[[35, 64, 'HOME_ADDRESS']]
+
+I went to 4188 Summerview Drive to help them rearrange the living room.  
+[[10, 31, 'HOME_ADDRESS']]
+
+We spent a cozy evening at 1566 Wingate Park Court watching movies by the fire.  
+[[27, 50, 'HOME_ADDRESS']]
+
+We had a barbecue in the backyard of 619 West 19th Avenue last weekend.
+[[37, 57, 'HOME_ADDRESS']]
+
+I walked to the store from 201 West Street earlier today.
+[[27, 42, 'HOME_ADDRESS']]
+
+I stopped by 398 Gove Hill Road for a quick chat while on my walk.  
+[[13, 31, 'HOME_ADDRESS']]
+
+The realtor showed me the house at 5985 Lamar Street.
+[[35, 52, 'HOME_ADDRESS']]
+
+We threw a housewarming party at 9223 Elgin Circle when we moved in.
+[[33, 50, 'HOME_ADDRESS']]
+
+We had a cozy family dinner at 152 Holly Court, enjoying great food.  
+[[31, 46, 'HOME_ADDRESS']]
+
+We spent the afternoon at 3810 Camp Ground Road working on a home project.  
+[[26, 47, 'HOME_ADDRESS']]
+
+I went over to 2441 Chase Park Drive to help with some spring cleaning.  
+[[15, 36, 'HOME_ADDRESS']]
+
+We spent a lazy Sunday at 2186 Knollwood Drive, reading and chatting.  
+[[26, 46, 'HOME_ADDRESS']]
+
+The family at 822 Bowden Street just got a new dog, and they love taking it for walks.  
+[[14, 31, 'HOME_ADDRESS']]
+
+We had a family barbecue at 450 C Street to kick off the summer.  
+[[28, 40, 'HOME_ADDRESS']]
+
+I visited 22207 Quinterno Court to help them organize their bookshelves.  
+[[10, 31, 'HOME_ADDRESS']]
+
+We had a cozy night at 5529 East Saddleridge Drive watching a documentary.  
+[[23, 50, 'HOME_ADDRESS']]
+
+We spent the afternoon at 9912 Shirewick Way decorating for the upcoming holiday.  
+[[26, 44, 'HOME_ADDRESS']]
+
+I ran into an old friend at 43949 South Moray Street while walking my dog.  
+[[28, 52, 'HOME_ADDRESS']]
+
+I sent a birthday card to 6143 Prosperity Drive last week.
+[[26, 47, 'HOME_ADDRESS']]
+
+We spent the afternoon at 3365 South Cato Springs Road working on some DIY projects.  
+[[26, 54, 'HOME_ADDRESS']]
+
+I went over to 829 Dunbarton Road to help with cleaning out their garage.  
+[[15, 33, 'HOME_ADDRESS']]
+
+We had a lovely time at 3200 Southwest 95th Street, baking and catching up.  
+[[24, 50, 'HOME_ADDRESS']]
+
+We spent the day at 4728 Rockland Trail fixing up the garden.  
+[[20, 39, 'HOME_ADDRESS']]
+
+We had a family dinner at 1001 Northwest 104th Street, enjoying everyone’s company.  
+[[26, 53, 'HOME_ADDRESS']]
+
+My aunt has a beautiful garden at 6739 Taft Court.
+[[34, 49, 'HOME_ADDRESS']]
+
+I went to 8474 Chase Drive to assist with hanging new curtains.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I received a package at 7720 Allison Street from my online order.  
+[[24, 43, 'HOME_ADDRESS']]
+
+The neighborhood near 74 Ranch Drive is peaceful and quiet.
+[[22, 36, 'HOME_ADDRESS']]
+
+We had a cozy night at 3118 Sora Avenue watching a documentary.  
+[[23, 39, 'HOME_ADDRESS']]
+
+They rented out the guest room at 549 Elysian Fields Road.
+[[34, 57, 'HOME_ADDRESS']]
+
+I left my jacket at 56 Concord Road after the party.
+[[20, 35, 'HOME_ADDRESS']]
+
+I stayed at 309 Water Street for a few days while I looked for a new place.  
+[[12, 28, 'HOME_ADDRESS']]
+
+I went over to 6821 Northwest 25th Street to help with installing shelves.  
+[[15, 41, 'HOME_ADDRESS']]
+
+We spent the afternoon at 3231 North Kings Cross fixing up their garage.  
+[[26, 48, 'HOME_ADDRESS']]
+
+We had a fun game night at 5821 Taft Street with the family.  
+[[27, 43, 'HOME_ADDRESS']]
+
+The party invitations were mailed to 5108 Franklin Street this morning.
+[[37, 57, 'HOME_ADDRESS']]
+
+The house at 4308 Princess Lane has a large backyard and a pool.  
+[[13, 31, 'HOME_ADDRESS']]
+
+I stopped by 324 East Drive to visit a friend who just moved in.  
+[[13, 27, 'HOME_ADDRESS']]
+
+I went over to 8506 Laviento Drive to help set up their new entertainment system.  
+[[15, 34, 'HOME_ADDRESS']]
+
+We spent the afternoon at 6120 Southeast 84th Street sorting through old family photos.  
+[[26, 52, 'HOME_ADDRESS']]
+
+I went to 15557 Sutter Creek Road to help clean up after their housewarming party.  
+[[10, 33, 'HOME_ADDRESS']]
+
+I was walking past 3500 South College Avenue and stopped to admire the landscaping.  
+[[19, 44, 'HOME_ADDRESS']]
+
+I went to 1504 East 55th Street to help fix the fence in their backyard.  
+[[10, 31, 'HOME_ADDRESS']]
+
+They put up new curtains at 8526 Preston Highway to match the living room.  
+[[28, 48, 'HOME_ADDRESS']]
+
+I stayed at 2262 Hall Place Northwest for the weekend while my parents were away.  
+[[12, 37, 'HOME_ADDRESS']]
+
+I found a lost cat outside 4341 Ponds Street Northeast yesterday.
+[[27, 54, 'HOME_ADDRESS']]
+
+We went to 127 Grand Heron Drive to help them unpack after their move.  
+[[11, 32, 'HOME_ADDRESS']]
+
+I helped my friend hang up some pictures at 16820 Coronado Street last night.  
+[[44, 65, 'HOME_ADDRESS']]
+
+I helped my neighbor decorate for the holidays at 6002 Jo Danielle Place.  
+[[50, 72, 'HOME_ADDRESS']]
+
+I spent a few days at 6609 Westshire Drive, helping with a major clean-up.  
+[[22, 42, 'HOME_ADDRESS']]
+
+I stayed at 1345 G Street Southeast while my car was being repaired.  
+[[12, 35, 'HOME_ADDRESS']]
+
+I visited 1918 Spruce Street to check out the new garden they planted.  
+[[10, 28, 'HOME_ADDRESS']]
+
+I spent the evening at 7810 Spring Farm Pointe Place, baking cookies with my mom.  
+[[23, 52, 'HOME_ADDRESS']]
+
+The previous owners left the house at 881 Main Street in great condition.  
+[[38, 53, 'HOME_ADDRESS']]
+
+We had a relaxing weekend at 5330 Shaun Circle with lots of good food and company.  
+[[29, 46, 'HOME_ADDRESS']]
+
+I spent a day at 1452 55th Avenue helping with some home repairs.  
+[[17, 33, 'HOME_ADDRESS']]
+
+I went to 6610 North 93rd Avenue to drop off some things I no longer needed.  
+[[10, 32, 'HOME_ADDRESS']]
+
+We had a cozy dinner at 103 Edgewater Road and shared some old stories.  
+[[24, 42, 'HOME_ADDRESS']]
+
+I helped my friend hang up some pictures at 200 Edson Road last night.  
+[[44, 58, 'HOME_ADDRESS']]
+
+The moving company is scheduled to arrive at 19 Murray Road tomorrow.
+[[45, 59, 'HOME_ADDRESS']]
+
+We had a small family reunion at 614 East Duffy Lane and everyone had a blast.  
+[[33, 52, 'HOME_ADDRESS']]
+
+I noticed the new backyard deck at 3 Hawser Way and it looks amazing.  
+[[35, 47, 'HOME_ADDRESS']]
+
+I stopped by 115 Colemont Court to help with some home improvement projects.  
+[[13, 31, 'HOME_ADDRESS']]
+
+I went over to 833 South Brownell Road to help them assemble the new furniture.  
+[[15, 38, 'HOME_ADDRESS']]
+
+I visited 335 C Street Southeast to help them with some home repairs.  
+[[10, 32, 'HOME_ADDRESS']]
+
+We threw a housewarming party at 119 Captain Chase Road when we moved in.
+[[33, 55, 'HOME_ADDRESS']]
+
+I went over to 4300 Woodley Square to help with their move to a new place.  
+[[15, 34, 'HOME_ADDRESS']]
+
+We hosted a family reunion at 56 Concord Road and it was a blast.  
+[[30, 45, 'HOME_ADDRESS']]
+
+I noticed they added new outdoor furniture at 1413 G Street this week.  
+[[46, 59, 'HOME_ADDRESS']]
+
+We took a road trip and spent the night at 6754 Field Street on the way.  
+[[43, 60, 'HOME_ADDRESS']]
+
+The living room at 7529 West 72nd Avenue has huge windows that overlook the garden.  
+[[19, 40, 'HOME_ADDRESS']]
+
+The kids played in the yard of 15847 West 74th Place all afternoon.
+[[31, 52, 'HOME_ADDRESS']]
+
+We spent the day at 992 Sherwood Forest Road, getting ready for the holidays.  
+[[20, 44, 'HOME_ADDRESS']]
+
+We had a cozy dinner at 3013 Sprowl Road with homemade dessert.  
+[[24, 40, 'HOME_ADDRESS']]
+
+I went to 509 Sea Breeze Drive to help them set up their new home theater.  
+[[10, 30, 'HOME_ADDRESS']]
+
+We had a cozy evening at 4594 Champagne Drive, chatting and drinking tea.  
+[[25, 45, 'HOME_ADDRESS']]
+
+I helped my friend set up their home office at 31 Mitchell Road.  
+[[47, 63, 'HOME_ADDRESS']]
+
+I walked by 5125 North 58th Avenue and noticed they installed a new porch swing.  
+[[12, 34, 'HOME_ADDRESS']]
+
+I helped my friend organize their bookshelf at 295 Townes Drive last weekend.  
+[[47, 63, 'HOME_ADDRESS']]
+
+We held a family reunion at 996 Ed Noble Parkway last summer, and it was wonderful.  
+[[28, 48, 'HOME_ADDRESS']]
+
+He brought me flowers to 57 Pierpoint Avenue for our anniversary.
+[[25, 44, 'HOME_ADDRESS']]
+
+I helped my cousin unpack at 6424 Simms Street and get settled in.  
+[[29, 46, 'HOME_ADDRESS']]
+
+We had a cozy dinner at 12816 West 65th Way with friends and family.  
+[[24, 43, 'HOME_ADDRESS']]
+
+They have a large library at 8666 Iris Street with a collection of rare books.  
+[[29, 45, 'HOME_ADDRESS']]
+
+The electricity went out at 78 School Street during the storm.
+[[28, 44, 'HOME_ADDRESS']]
+
+The house at 6500 Park Club Circle has a beautiful, rustic charm.  
+[[13, 34, 'HOME_ADDRESS']]
+
+I ran into my childhood friend at 20930 Todd Valley Road last night.  
+[[34, 56, 'HOME_ADDRESS']]
+
+We spent a quiet evening at 212 Burk Way, reading and chatting.  
+[[28, 40, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 32532 Jean Drive.
+[[42, 58, 'HOME_ADDRESS']]
+
+I visited 6373 West Golden Lane to help my friend unpack after moving.  
+[[10, 31, 'HOME_ADDRESS']]
+
+I stayed with friends at 235 Hugh Thomas Drive while I was in town.
+[[25, 46, 'HOME_ADDRESS']]
+
+We stayed at 10367 West 55th Place for a few days before heading to the beach.  
+[[13, 34, 'HOME_ADDRESS']]
+
+The moving truck was parked at 149 Lenox Street for hours.
+[[31, 47, 'HOME_ADDRESS']]
+
+We had a small family celebration at 16412 Eastwood Cut Off Road to mark an anniversary.  
+[[37, 64, 'HOME_ADDRESS']]
+
+We had a cozy evening at 17480 Beaujolais Circle, drinking hot chocolate.  
+[[25, 48, 'HOME_ADDRESS']]
+
+My best friend lives at 1025 Rose Anne Road now.
+[[24, 43, 'HOME_ADDRESS']]
+
+I went to 7041 Dover Avenue to check if they needed help with some home repairs.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I went over to 107 West Canton Circle to help rearrange the furniture in the living room.  
+[[15, 37, 'HOME_ADDRESS']]
+
+I went to 8509 Olde Gate to check on the new outdoor furniture.  
+[[10, 24, 'HOME_ADDRESS']]
+
+We spent the evening at 6 Oak Street, watching a documentary.  
+[[24, 36, 'HOME_ADDRESS']]
+
+They rented out the guest room at 9346 West 66th Place.
+[[34, 54, 'HOME_ADDRESS']]
+
+I noticed a new garden gnome in the front yard of 88 Shute Street.  
+[[50, 65, 'HOME_ADDRESS']]
+
+I mailed the invitation to the address at 420 D Street Northwest.
+[[42, 64, 'HOME_ADDRESS']]
+
+We went to a small gathering at 165 Saint John Street last weekend.  
+[[32, 53, 'HOME_ADDRESS']]
+
+We had a cozy dinner at 65 Clark Street with friends and family.  
+[[24, 39, 'HOME_ADDRESS']]
+
+They decided to put up a new fence around the yard at 7085 West Northern Avenue.  
+[[54, 79, 'HOME_ADDRESS']]
+
+The electricity went out at 678 Fairlane Street during the storm.
+[[28, 47, 'HOME_ADDRESS']]
+
+I spent the evening at 464 Springfield Street, chatting and having tea.  
+[[23, 45, 'HOME_ADDRESS']]
+
+I went to 2036 Hermitage Hills Drive to assist with organizing their garage.  
+[[10, 36, 'HOME_ADDRESS']]
+
+We spent the afternoon at 3534 Saint Lawrence Road baking treats for the holidays.  
+[[26, 50, 'HOME_ADDRESS']]
+
+I took a bus to 1931 Beauvoir Lake Drive after the meeting ended.
+[[16, 40, 'HOME_ADDRESS']]
+
+I went to 800 California 116 to drop off a package for them.  
+[[10, 28, 'HOME_ADDRESS']]
+
+I’m staying at 1230 Stafford Drive for the weekend while my apartment gets painted.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I went to check on the house at 5581 Nolan Street while they were away for the weekend.  
+[[32, 49, 'HOME_ADDRESS']]
+
+The street leading to 3301 Old Muldoon Road is lined with old oak trees.  
+[[22, 43, 'HOME_ADDRESS']]
+
+I visited 57413 Taku Avenue to check out the new renovations.  
+[[10, 27, 'HOME_ADDRESS']]
+
+The fire department responded to a call at 1320 Huffman Park Drive last night.
+[[43, 66, 'HOME_ADDRESS']]
+
+My friend invited me to stay at 13525 West Stella Lane while I visited.
+[[32, 54, 'HOME_ADDRESS']]
+
+I stayed with my parents at 89 High Ledge Circle during the holidays.  
+[[28, 48, 'HOME_ADDRESS']]
+
+I helped my friend clean the garage at 3701 Lake Towne Drive last weekend.  
+[[39, 60, 'HOME_ADDRESS']]
+
+I went to 3437 Sommerville Drive to help clean the backyard.  
+[[10, 32, 'HOME_ADDRESS']]
+
+I bought new furniture for my living room at 153 Atlantic Avenue.  
+[[45, 64, 'HOME_ADDRESS']]
+
+I stopped by 619 Colusa Avenue to drop off some fresh flowers for their garden.  
+[[13, 30, 'HOME_ADDRESS']]
+
+I helped my aunt decorate for the holidays at 3718 Bay Tree Road.  
+[[46, 64, 'HOME_ADDRESS']]
+
+I went over to 840 Inglewood Drive to help them organize their pantry.  
+[[15, 34, 'HOME_ADDRESS']]
+
+The street leading to 81 Reynolds Drive is lined with trees and flowers.  
+[[22, 39, 'HOME_ADDRESS']]
+
+We took some great photos at 3321 Eureka Street during our vacation.  
+[[29, 47, 'HOME_ADDRESS']]
+
+I stayed at 159 Downey Drive while I was between apartments.  
+[[12, 28, 'HOME_ADDRESS']]
+
+We spent the evening at 903 Burton Avenue decorating for the holidays.  
+[[24, 41, 'HOME_ADDRESS']]
+
+I went to 4809 Trappers Ridge to drop off some supplies for the party.  
+[[10, 29, 'HOME_ADDRESS']]
+
+She loves the neighborhood at 109 East 64th Street and often goes for walks.  
+[[30, 50, 'HOME_ADDRESS']]
+
+I went over to 7770 West Bell Road to help them prepare for a party.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I stayed at 125 John Street for a few days while my place was being painted.  
+[[12, 27, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 4800 Huffman Road, enjoying homemade pasta.  
+[[26, 43, 'HOME_ADDRESS']]
+
+We had a family dinner at 89 High Ledge Circle, enjoying homemade soup.  
+[[26, 46, 'HOME_ADDRESS']]
+
+I went over to 240 Lynwood Drive to help install the new light fixtures.  
+[[15, 32, 'HOME_ADDRESS']]
+
+The house at 2417 Becker Place is a cozy little place.
+[[13, 30, 'HOME_ADDRESS']]
+
+The neighbors are hosting a block party at 190 High Street this Saturday.
+[[43, 58, 'HOME_ADDRESS']]
+
+I sent a thank-you card to 2638 East 40th Plaza for the lovely gift.  
+[[27, 47, 'HOME_ADDRESS']]
+
+We had a fun game night at 328 South Ranchwood Manor Drive, playing charades.  
+[[27, 58, 'HOME_ADDRESS']]
+
+I was visiting friends at 301 East Court for the weekend.  
+[[26, 40, 'HOME_ADDRESS']]
+
+I walked by 112 Aquinnah Drive and noticed they had installed new lighting outside.  
+[[12, 30, 'HOME_ADDRESS']]
+
+I visited 11160 Vosikof Place to help them clean out the basement.  
+[[10, 29, 'HOME_ADDRESS']]
+
+I attended a wedding reception at 1508 Massachusetts Avenue Southeast last spring.
+[[34, 69, 'HOME_ADDRESS']]
+
+I stayed at 99 Pond Avenue for a few days during my vacation.
+[[12, 26, 'HOME_ADDRESS']]
+
+I visited 119 Matthew Lane to help them set up a new lamp in the living room.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I went over to 7 Cloutman Street to help install new curtains in the bedroom.  
+[[15, 32, 'HOME_ADDRESS']]
+
+We spent the afternoon at 1907 18th Avenue South baking treats for the holidays.  
+[[26, 48, 'HOME_ADDRESS']]
+
+We spent the afternoon at 2504 Longest Avenue sorting through old family photos.  
+[[26, 45, 'HOME_ADDRESS']]
+
+We had a family dinner at 325 East 7th Street, catching up and enjoying food.  
+[[26, 45, 'HOME_ADDRESS']]
+
+We went to the park nearby 6369 West 70th Drive to enjoy the sunny weather.  
+[[27, 47, 'HOME_ADDRESS']]
+
+I visited 2337 Nebraska Avenue to help them set up their new TV.  
+[[10, 30, 'HOME_ADDRESS']]
+
+We had a quiet evening at 6500 Thurlow Place, talking over dinner.  
+[[26, 44, 'HOME_ADDRESS']]
+
+I visited 4560 Hurlston Drive to help them organize their bookshelves.  
+[[10, 29, 'HOME_ADDRESS']]
+
+The neighbors at 6108 Iris Way have a beautiful garden that I admire every time I visit.  
+[[17, 30, 'HOME_ADDRESS']]
+
+I borrowed a ladder from 105 Courtland Drive to reach the high branches in my yard.  
+[[25, 44, 'HOME_ADDRESS']]
+
+We celebrated my aunt’s birthday at 8295 Moss Circle last weekend.  
+[[36, 52, 'HOME_ADDRESS']]
+
+The event was held at 13116 West Palo Verde Drive and everyone had a great time.
+[[22, 49, 'HOME_ADDRESS']]
+
+I went to 2121 Stepping Stone Trail to help install new light fixtures in the bathroom.  
+[[10, 35, 'HOME_ADDRESS']]
+
+We spent the day at 7400 West Arrowhead Clubhouse Drive unpacking and organizing.  
+[[20, 55, 'HOME_ADDRESS']]
+
+They invited me to a small get-together at 130 Carolina Cherry Circle next week.  
+[[43, 69, 'HOME_ADDRESS']]
+
+I went to 21 Hill Street to help them set up their new couch.  
+[[10, 24, 'HOME_ADDRESS']]
+
+They decided to put up a new fence around the yard at 7071 Senators Drive.  
+[[54, 73, 'HOME_ADDRESS']]
+
+I went to 396 Hartford Road to assist with some landscaping in the front yard.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I took a walk around the block from 637 Britannia Drive earlier today.
+[[36, 55, 'HOME_ADDRESS']]
+
+I went to 409 Snook Lane to drop off the cupcakes I made.  
+[[10, 24, 'HOME_ADDRESS']]
+
+We had a great time at 6424 Simms Street, playing games and enjoying snacks.
+[[23, 40, 'HOME_ADDRESS']]
+
+I went to 901 Samson Road to help them install new curtains in the living room.  
+[[10, 25, 'HOME_ADDRESS']]
+
+I spent the afternoon at 7321 East Chester Heights Circle organizing the bookshelves.  
+[[25, 57, 'HOME_ADDRESS']]
+
+I helped them with the landscaping at 6617 North 59th Avenue last summer.  
+[[38, 60, 'HOME_ADDRESS']]
+
+I visited 321 Kentucky Avenue Southeast to see how their new home renovations were coming along.  
+[[10, 39, 'HOME_ADDRESS']]
+
+We had a family game night at 49 West Street last night.
+[[30, 44, 'HOME_ADDRESS']]
+
+We had a picnic in the backyard at 64 Church Street to celebrate the weekend.  
+[[35, 51, 'HOME_ADDRESS']]
+
+I stopped by 3060 Zelda Road to see their new plants in the garden.  
+[[13, 28, 'HOME_ADDRESS']]
+
+I helped my friend pack boxes at 13 Breezy Palm Way in preparation for their move.  
+[[33, 51, 'HOME_ADDRESS']]
+
+We had a fun game night at 2505 Walker Lane with snacks and drinks.  
+[[27, 43, 'HOME_ADDRESS']]
+
+The house at 8157 East Beach Drive Northwest has a large attic that’s perfect for storage.  
+[[13, 44, 'HOME_ADDRESS']]
+
+I went to 2944 Sheldon Jackson Street to help them arrange their new furniture.  
+[[10, 37, 'HOME_ADDRESS']]
+
+I stayed at 2504 Longest Avenue for a few days while I sorted things out.  
+[[12, 31, 'HOME_ADDRESS']]
+
+I went to 5170 Hickory Hollow Parkway to help install new light fixtures in the bathroom.  
+[[10, 37, 'HOME_ADDRESS']]
+
+We had a quiet evening at 16020 North 69th Avenue with some homemade dinner.  
+[[26, 49, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 34 Belair Drive and talked about old times.  
+[[26, 41, 'HOME_ADDRESS']]
+
+I went over to 736 Sicard Street Southeast to help clean out the garage.  
+[[15, 42, 'HOME_ADDRESS']]
+
+I went to 131 Kent Drive to help them unpack after moving in.  
+[[10, 24, 'HOME_ADDRESS']]
+
+I went to 615 Florida Avenue to help them arrange their new furniture.  
+[[10, 28, 'HOME_ADDRESS']]
+
+I used to bike past 314 Cherrywood Drive on my way to school.
+[[20, 40, 'HOME_ADDRESS']]
+
+We had a cozy evening at 5264 Shafter Avenue, enjoying board games and snacks.  
+[[25, 44, 'HOME_ADDRESS']]
+
+I visited 122 Coral Drive to catch up with an old friend.  
+[[10, 25, 'HOME_ADDRESS']]
+
+My new neighbors just moved into 317 Windsor Road last weekend.
+[[33, 49, 'HOME_ADDRESS']]
+
+I spent the afternoon at 1403 Lincoln Street setting up their new bookshelf.  
+[[25, 44, 'HOME_ADDRESS']]
+
+I went to 2732 Humboldt Avenue to pick up some gardening tools I left behind.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I stopped by 25 Wendys Way to help with the front yard cleanup.  
+[[13, 26, 'HOME_ADDRESS']]
+
+My family and I went on a road trip and stayed at 605 Main Street for a few days.  
+[[50, 65, 'HOME_ADDRESS']]
+
+The house at 501 Running Creek Place was on the market for only a week.  
+[[13, 36, 'HOME_ADDRESS']]
+
+I got a letter delivered to 6401 Green Meadow Lane yesterday.
+[[28, 50, 'HOME_ADDRESS']]
+
+The house at 4250 North Valley Lake Drive has a modern design with sleek finishes.  
+[[13, 41, 'HOME_ADDRESS']]
+
+The renovation at 141 Lavigne Road will be completed next month.  
+[[18, 34, 'HOME_ADDRESS']]
+
+My sister invited me to stay over at 5316 Silver Wing Boulevard next week.
+[[37, 63, 'HOME_ADDRESS']]
+
+We spent the day at 7321 East Chester Heights Circle, organizing the pantry and closets.  
+[[20, 52, 'HOME_ADDRESS']]
+
+They invited me over to 4 Stemson Way for a barbecue next weekend.
+[[24, 37, 'HOME_ADDRESS']]
+
+They invited me over to 2170 Benton Boulevard for a barbecue next weekend.
+[[24, 45, 'HOME_ADDRESS']]
+
+I borrowed a book from the library at 3426 Broadview Street yesterday.  
+[[38, 59, 'HOME_ADDRESS']]
+
+We spent the weekend at 2544 Worthington Way working on home improvements.  
+[[24, 44, 'HOME_ADDRESS']]
+
+I went to 12725 Landmark Street to help them with organizing the garage.  
+[[10, 31, 'HOME_ADDRESS']]
+
+I stopped by 1939 Greenwood Street to drop off some freshly baked cookies.  
+[[13, 34, 'HOME_ADDRESS']]
+
+We spent the evening outside at 122 40th Avenue North, grilling and chatting.  
+[[32, 53, 'HOME_ADDRESS']]
+
+The kitchen at 856 Milton Street has a beautiful island with marble countertops.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I’m planning a visit to 3500 South College Avenue this weekend to see how they’re doing.  
+[[24, 49, 'HOME_ADDRESS']]
+
+I noticed they planted new flowers in the front yard at 7202 Jump Street.  
+[[56, 72, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 2400 Easy Street.
+[[42, 58, 'HOME_ADDRESS']]
+
+We had a small dinner at 9030 Pennington PIace with close friends.  
+[[25, 46, 'HOME_ADDRESS']]
+
+We celebrated Christmas at 349 North Sabine Pass Road with a big family dinner.  
+[[27, 53, 'HOME_ADDRESS']]
+
+We spent the evening at 238 West Rock Street, talking about old memories.  
+[[24, 44, 'HOME_ADDRESS']]
+
+I stopped by 208 Waterford Drive to drop off some fresh flowers for their garden.  
+[[13, 32, 'HOME_ADDRESS']]
+
+The family at 8801 Rosshire Drive always decorates for the holidays.
+[[14, 33, 'HOME_ADDRESS']]
+
+I spent a weekend at 949 South Lawrence Street helping them renovate their kitchen.  
+[[21, 46, 'HOME_ADDRESS']]
+
+I stopped by 2405 230th Street to drop off some freshly baked cookies.  
+[[13, 30, 'HOME_ADDRESS']]
+
+I spent the afternoon at 12800 Saunders Road chatting with old friends.  
+[[25, 44, 'HOME_ADDRESS']]
+
+I went to 424 Callan Avenue to check out their new front porch.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I parked my bike outside 4300 Kansas Avenue Northwest before going inside.  
+[[25, 53, 'HOME_ADDRESS']]
+
+I visited 4246 Ray Drive to help them organize their bookshelves.  
+[[10, 24, 'HOME_ADDRESS']]
+
+We had a family reunion at 25793 Durrwood Court and it was so much fun.  
+[[27, 47, 'HOME_ADDRESS']]
+
+I went to 6672 Urban Court to help them set up the new home office.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I went over to 33300 Mission Boulevard to help my friend hang up their new curtains.  
+[[15, 38, 'HOME_ADDRESS']]
+
+I went to 243 Kentucky Avenue to check out their new furniture.  
+[[10, 29, 'HOME_ADDRESS']]
+
+I visited 7085 West Northern Avenue to help them clean up after their move.  
+[[10, 35, 'HOME_ADDRESS']]
+
+We had a barbecue at 1822 Dixdale Avenue with the whole neighborhood.  
+[[21, 40, 'HOME_ADDRESS']]
+
+I got lost near 8347 Ames Way but eventually found my way back.  
+[[16, 29, 'HOME_ADDRESS']]
+
+I went over to 508 Baker Street to help them put up their holiday decorations.  
+[[15, 31, 'HOME_ADDRESS']]
+
+They recently put up new curtains at 132 Tensaw Road that look amazing.  
+[[37, 52, 'HOME_ADDRESS']]
+
+I went to 8376 Albacore Drive to borrow a ladder for some yard work.  
+[[10, 29, 'HOME_ADDRESS']]
+
+I went to 905 C Street Northeast to help them clean up after a party.  
+[[10, 32, 'HOME_ADDRESS']]
+
+The family at 6802 North 67th Avenue just adopted a puppy and named it Max.  
+[[14, 36, 'HOME_ADDRESS']]
+
+I went to 17433 Teklanika Drive to help them clean out the garage.  
+[[10, 31, 'HOME_ADDRESS']]
+
+I went to a party at 2109 Puddingtons Patent Way last Friday.
+[[21, 48, 'HOME_ADDRESS']]
+
+She invited me over to 12245 West 71st Place for a weekend retreat.  
+[[23, 44, 'HOME_ADDRESS']]
+
+I stopped by 7013 Collinswood Drive to help with the front yard cleanup.  
+[[13, 35, 'HOME_ADDRESS']]
+
+I visited 5125 North 58th Avenue to help clean their garage.  
+[[10, 32, 'HOME_ADDRESS']]
+
+We spent the day at 404 Ramble Wood Circle working on organizing the closet.  
+[[20, 42, 'HOME_ADDRESS']]
+
+I went over to 1636 Church Street Northwest to help them with a DIY home project.  
+[[15, 43, 'HOME_ADDRESS']]
+
+The address listed for the service is 7401 West Arrowhead Clubhouse Drive.
+[[38, 73, 'HOME_ADDRESS']]
+
+We spent the weekend at 8007 Kendrick Crossing Lane cleaning the entire house.  
+[[24, 51, 'HOME_ADDRESS']]
+
+They invited me over to 27 Church Street for a barbecue next weekend.
+[[24, 40, 'HOME_ADDRESS']]
+
+The house at 424 North Powderhorn Drive has a beautiful garden full of colorful flowers.  
+[[13, 39, 'HOME_ADDRESS']]
+
+I parked my bike outside 16040 North 67th Drive before going inside.  
+[[25, 47, 'HOME_ADDRESS']]
+
+I went to 3511 Oakland Zion Road to help them organize the garage.  
+[[10, 32, 'HOME_ADDRESS']]
+
+We spent the afternoon at 7030 Cotton Blossom Lane decorating the house for fall.  
+[[26, 50, 'HOME_ADDRESS']]
+
+We spent the day at 2650 East Huntsville Road fixing up the porch.  
+[[20, 45, 'HOME_ADDRESS']]
+
+I stopped by 228 Wood Street to help them clean out the garage.  
+[[13, 28, 'HOME_ADDRESS']]
+
+The garden at 3300 Gatsby Lane is filled with colorful flowers.  
+[[14, 30, 'HOME_ADDRESS']]
+
+We spent the evening at 7435 East Tulare Avenue, enjoying a good movie and snacks.  
+[[24, 47, 'HOME_ADDRESS']]
+
+He picked me up from 23501 Ida Lane and we went to the concert.
+[[21, 35, 'HOME_ADDRESS']]
+
+We had a wonderful evening at 29104 Quartz Lane enjoying the homemade dinner.  
+[[30, 47, 'HOME_ADDRESS']]
+
+The kids were playing outside 4253 San Juan Avenue when it started raining.
+[[30, 50, 'HOME_ADDRESS']]
+
+We threw a housewarming party at 6418 Iris Way when we moved in.
+[[33, 46, 'HOME_ADDRESS']]
+
+I stopped by 1637 Delphil Street to help with the front yard cleanup.  
+[[13, 32, 'HOME_ADDRESS']]
+
+I went to 77 Weaver Road to help them unpack after moving in.  
+[[10, 24, 'HOME_ADDRESS']]
+
+The previous owners left the house at 2057 Lucas Street in great condition.  
+[[38, 55, 'HOME_ADDRESS']]
+
+I noticed they installed a new security camera at 6221 Allison Street last week.  
+[[50, 69, 'HOME_ADDRESS']]
+
+I went to pick up my mail at 560 Penstock Drive this afternoon.  
+[[29, 47, 'HOME_ADDRESS']]
+
+I spent a day at 200 Boulder Road helping with some home repairs.  
+[[17, 33, 'HOME_ADDRESS']]
+
+We had a cozy evening at 4911 Alameda Street, chatting and drinking tea.  
+[[25, 44, 'HOME_ADDRESS']]
+
+I spent the afternoon playing games at 317 Windsor Road with my little brother.  
+[[39, 55, 'HOME_ADDRESS']]
+
+We took some great photos at 5900 Upland Road during our vacation.  
+[[29, 45, 'HOME_ADDRESS']]
+
+I went to 1123 Ardee Avenue to help with installing new kitchen appliances.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I went to 120 North Hurstbourne Parkway to help them assemble a new bookshelf.  
+[[10, 39, 'HOME_ADDRESS']]
+
+My family’s old home was at 4800 Huffman Road, now sold.
+[[28, 45, 'HOME_ADDRESS']]
+
+I went to 800 West Street to visit my friend and see how they’ve been settling in.  
+[[10, 25, 'HOME_ADDRESS']]
+
+The house at 31770 Alvarado Boulevard has a modern kitchen with new appliances.  
+[[13, 37, 'HOME_ADDRESS']]
+
+I found my old toys while cleaning the attic at 3579 2nd Avenue.
+[[48, 63, 'HOME_ADDRESS']]
+
+We spent the afternoon at 1233 Paradise Lane fixing up the garden.They put up new lighting in the front yard of 1233 Paradise Lane.  
+[[26, 44, 'HOME_ADDRESS']]
+
+I visited 8121 Copper Creek Drive to help them organize their bookshelves.  
+[[10, 33, 'HOME_ADDRESS']]
+
+I went to 3 Hawser Way to help them organize their office space.  
+[[10, 22, 'HOME_ADDRESS']]
+
+I went to 3302 Woodland Park Drive to visit my cousin and see her new house.  
+[[10, 34, 'HOME_ADDRESS']]
+
+I went to 2944 Sheldon Jackson Street to help put together new furniture.  
+[[10, 37, 'HOME_ADDRESS']]
+
+I stopped by 6522 Harlan Street to pick up the documents I left behind.  
+[[13, 31, 'HOME_ADDRESS']]
+
+They put up new curtains at 8820 Culebra Street to match the living room.  
+[[28, 47, 'HOME_ADDRESS']]
+
+I’m planning a visit to 5908 Sedberry Road this weekend to see how they’re doing.  
+[[24, 42, 'HOME_ADDRESS']]
+
+I moved out of 8 Watkins Road when I started college.
+[[15, 29, 'HOME_ADDRESS']]
+
+My best friend lives at 15254 North 52nd Avenue now.
+[[24, 47, 'HOME_ADDRESS']]
+
+They have a large library at 5370 Business Park Drive with a collection of rare books.  
+[[29, 53, 'HOME_ADDRESS']]
+
+I saw the movers bringing boxes into 1816 14th Avenue yesterday.
+[[37, 53, 'HOME_ADDRESS']]
+
+We had a family dinner at 34 Holyoke Road to celebrate my new job.  
+[[26, 41, 'HOME_ADDRESS']]
+
+I went over to 309 Brooke Court to help with installing shelves.  
+[[15, 31, 'HOME_ADDRESS']]
+
+I noticed they put up a new fence around the yard at 3810 Camp Ground Road.  
+[[53, 74, 'HOME_ADDRESS']]
+
+We stayed at 13852 West 66th Place for a few days before heading to the beach.  
+[[13, 34, 'HOME_ADDRESS']]
+
+We spent the afternoon gardening at 8398 West 62nd Place, planting new flowers.  
+[[36, 56, 'HOME_ADDRESS']]
+
+I found a letter addressed to 3365 Wyndham Drive in the mailbox.
+[[30, 48, 'HOME_ADDRESS']]
+
+I spent the afternoon baking cookies at 928 Wright Avenue and invited some friends over.  
+[[40, 57, 'HOME_ADDRESS']]
+
+We threw a housewarming party at 1400 Doris Drive when we moved in.
+[[33, 49, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 314 Mesa Street with homemade pizza.  
+[[26, 41, 'HOME_ADDRESS']]
+
+I spent the weekend at 4016 Doane Street helping them get ready for a move.  
+[[23, 40, 'HOME_ADDRESS']]
+
+My cousin moved into the apartment at 1917 Whitaker Street last month.
+[[38, 58, 'HOME_ADDRESS']]
+
+We had a relaxing evening at 1709 West Market Street watching old movies.  
+[[29, 52, 'HOME_ADDRESS']]
+
+My family’s old home was at 1612 Beech Street, now sold.
+[[28, 45, 'HOME_ADDRESS']]
+
+I stayed at 5611 Kendall Court for a few days to take care of their pets.  
+[[12, 30, 'HOME_ADDRESS']]
+
+I found an old key under the rug at 1040 University Avenue.  
+[[36, 58, 'HOME_ADDRESS']]
+
+I walked past 175 Oak Street on my way to the park this morning.  
+[[14, 28, 'HOME_ADDRESS']]
+
+I found a lost cat outside 9008 Grayson Grove Court yesterday.
+[[27, 51, 'HOME_ADDRESS']]
+
+I went to 14 6th Street to help them clean up after a party.  
+[[10, 23, 'HOME_ADDRESS']]
+
+I went to 3436 Lexington Road to check the progress on their landscaping.  
+[[10, 29, 'HOME_ADDRESS']]
+
+We spent the day at 19141 Pine Ridge Circle fixing up the backyard.  
+[[20, 43, 'HOME_ADDRESS']]
+
+We had a lovely walk around 1811 1st Street Northwest in the evening.  
+[[28, 53, 'HOME_ADDRESS']]
+
+I stopped by 24 Lawton Road to return the ladder I borrowed last week.  
+[[13, 27, 'HOME_ADDRESS']]
+
+We had a quiet evening at 1937 Carleton Street with some homemade dinner.  
+[[26, 46, 'HOME_ADDRESS']]
+
+I dropped by 555 North Dupont Avenue to help them sort through old boxes.  
+[[13, 36, 'HOME_ADDRESS']]
+
+I’m meeting my friends at 833 50th Place Northeast to plan the surprise party.  
+[[26, 50, 'HOME_ADDRESS']]
+
+I went to 5630 Silverado Way to help install new light bulbs in the hallway.  
+[[10, 28, 'HOME_ADDRESS']]
+
+We used to walk to school from 4 Eastview Lane every day.
+[[31, 46, 'HOME_ADDRESS']]
+
+We spent the day at 7072 Quail Street fixing up the porch.  
+[[20, 37, 'HOME_ADDRESS']]
+
+I helped my aunt clean out the attic at 100 East Joyce Boulevard.  
+[[40, 64, 'HOME_ADDRESS']]
+
+I went over to 10307 Rock Falls Court to help organize their home office.  
+[[15, 37, 'HOME_ADDRESS']]
+
+My family’s old home was at 1234 Carmel Street, now sold.
+[[28, 46, 'HOME_ADDRESS']]
+
+I dropped by 3810 Camp Ground Road to return the books I borrowed last week.  
+[[13, 34, 'HOME_ADDRESS']]
+
+We hosted a dinner party at 760 11th Street Southeast to celebrate my promotion.  
+[[28, 53, 'HOME_ADDRESS']]
+
+I found an old key under the rug at 11 Proctor Circle.  
+[[36, 53, 'HOME_ADDRESS']]
+
+We stayed at 264 Crest Drive for a weekend retreat by the lake.  
+[[13, 28, 'HOME_ADDRESS']]
+
+We spent the day at 327 Woodbridge Street gardening and setting up the backyard.  
+[[20, 41, 'HOME_ADDRESS']]
+
+I went to 4108 Kogru Place to help with the spring cleaning.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I stayed at 913 Fallview Trail while my friends were on vacation to take care of their plants.  
+[[12, 30, 'HOME_ADDRESS']]
+
+They hosted a Thanksgiving dinner at 8101 Vaughn Road last year.
+[[37, 53, 'HOME_ADDRESS']]
+
+They just moved into the apartment at 210 Green Road and it’s perfect for them.  
+[[38, 52, 'HOME_ADDRESS']]
+
+I dropped by 55 Sunrise Avenue to deliver the package that was mistakenly sent to my address.  
+[[13, 30, 'HOME_ADDRESS']]
+
+I went to 1010 Hillcrest Drive to help fix the fence in their backyard.  
+[[10, 30, 'HOME_ADDRESS']]
+
+The party invitations were mailed to 4107 East 68th Avenue this morning.
+[[37, 58, 'HOME_ADDRESS']]
+
+I spent the afternoon baking cookies at 51 Bearing Circle and invited some friends over.  
+[[40, 57, 'HOME_ADDRESS']]
+
+I lost my keys and had to get a new set for 6221 Allison Street.
+[[44, 63, 'HOME_ADDRESS']]
+
+I made an appointment to meet at 7841 North 59th Lane.
+[[33, 53, 'HOME_ADDRESS']]
+
+I spent the afternoon with my friend at 1931 West Deane Street, chatting and relaxing.  
+[[40, 62, 'HOME_ADDRESS']]
+
+He took me on a tour of the house at 910 Arlington Terrace.
+[[37, 58, 'HOME_ADDRESS']]
+
+I went to 7057 Old Southwick Place to drop off a package for them.  
+[[10, 34, 'HOME_ADDRESS']]
+
+I used to play in the park near 171 Tolland Turnpike when I was a child.
+[[32, 52, 'HOME_ADDRESS']]
+
+I went over to 1644 New Jersey Avenue Northwest to assist with hanging some pictures.  
+[[15, 47, 'HOME_ADDRESS']]
+
+They held a community meeting at 230 East 8th Street last Thursday.  
+[[33, 52, 'HOME_ADDRESS']]
+
+We had a picnic in the front yard of 9805 Meadow Vale Drive, enjoying the sunshine.  
+[[37, 59, 'HOME_ADDRESS']]
+
+I visited 521 McGregor Court to help them set up their new kitchen appliances.  
+[[10, 28, 'HOME_ADDRESS']]
+
+I went over to 7096 Park Mesa Way to help organize their home office.  
+[[15, 33, 'HOME_ADDRESS']]
+
+I’ve lived at 309 Glenwood Avenue for over a decade.
+[[14, 33, 'HOME_ADDRESS']]
+
+I went to 39 Newhall Street to help set up their new bookshelf.  
+[[10, 27, 'HOME_ADDRESS']]
+
+We had a lovely evening gathering at 150 Somersby Boulevard with delicious food.  
+[[37, 59, 'HOME_ADDRESS']]
+
+We had a picnic in the backyard at 1 Portsmouth Road last weekend.  
+[[35, 52, 'HOME_ADDRESS']]
+
+I stopped by 6419 8th Street Northwest to drop off some freshly baked cookies.  
+[[13, 38, 'HOME_ADDRESS']]
+
+My uncle lives at 11933 West 71st Avenue, and I go there every holiday.  
+[[18, 40, 'HOME_ADDRESS']]
+
+They invited me to a small get-together at 10911 Torrington Road next week.  
+[[43, 64, 'HOME_ADDRESS']]
+
+We had a cozy evening at 2115 Honeysuckle Drive watching movies and chatting.  
+[[25, 47, 'HOME_ADDRESS']]
+
+I got a letter delivered to 322 East Taylor Street yesterday.
+[[28, 50, 'HOME_ADDRESS']]
+
+I went over to 3820 North Peniel Avenue to help organize the garage.  
+[[15, 39, 'HOME_ADDRESS']]
+
+I helped my neighbor paint the fence at 149 Lenox Street last weekend.  
+[[40, 56, 'HOME_ADDRESS']]
+
+I visited 475 Maple Street to help set up their new furniture.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I sent a birthday card to 776 Morrill Road for my cousin’s birthday.  
+[[26, 42, 'HOME_ADDRESS']]
+
+We went to a small gathering at 112 Coleman Boulevard last weekend.  
+[[32, 53, 'HOME_ADDRESS']]
+
+I visited my aunt’s place at 112 Cherokee Road during the holidays.
+[[29, 46, 'HOME_ADDRESS']]
+
+I’m planning to visit 169 Avenida Drive next week for a special occasion.  
+[[22, 39, 'HOME_ADDRESS']]
+
+The neighbors are hosting a block party at 210 Beachcomber Drive this Saturday.
+[[43, 64, 'HOME_ADDRESS']]
+
+I bought a new coffee table and placed it at 8700 Seaton Boulevard.  
+[[45, 66, 'HOME_ADDRESS']]
+
+I stopped by 5444 Nicole Boulevard to help with organizing the garage.  
+[[13, 34, 'HOME_ADDRESS']]
+
+I helped them hang a new picture frame at 3534 Saint Lawrence Road last week.  
+[[42, 66, 'HOME_ADDRESS']]
+
+I noticed the new plants in the garden at 12460 West Solano Drive when I walked by.  
+[[42, 65, 'HOME_ADDRESS']]
+
+He bought a new car and parked it at 1800 East 63rd Street.
+[[37, 58, 'HOME_ADDRESS']]
+
+They put up new curtains at 11330 Elmore Road to match the living room.  
+[[28, 45, 'HOME_ADDRESS']]
+
+I went to 15267 Hesperian Boulevard to help with the setup for their birthday party.  
+[[10, 35, 'HOME_ADDRESS']]
+
+The neighbors at 721 South Jackson Street have a beautiful garden that I admire every time I visit.  
+[[17, 41, 'HOME_ADDRESS']]
+
+I visited 5330 Shaun Circle to help them clean up their yard.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I helped my friend move into 4300 Woodley Square last weekend.
+[[29, 48, 'HOME_ADDRESS']]
+
+The house at 4940 Fuller Road is painted a bright yellow color.
+[[13, 29, 'HOME_ADDRESS']]
+
+We stayed at 6408 Fern Crest Road when we visited the city for the holidays.  
+[[13, 33, 'HOME_ADDRESS']]
+
+I went over to 301 East Court to help them set up the Christmas tree.  
+[[15, 29, 'HOME_ADDRESS']]
+
+I spent the weekend at 642 Sagamore Drive, helping my friend move in.  
+[[23, 41, 'HOME_ADDRESS']]
+
+I visited my friend at 52 Linnmore Drive to see their new puppy.  
+[[23, 40, 'HOME_ADDRESS']]
+
+I’m planning a weekend getaway and will stay at 503 Early Street.  
+[[48, 64, 'HOME_ADDRESS']]
+
+I went over to 21950 Arnold Center Road to help install the new light fixtures.  
+[[15, 39, 'HOME_ADDRESS']]
+
+We spent the evening at 4709 Blagden Terrace Northwest, watching old movies.  
+[[24, 54, 'HOME_ADDRESS']]
+
+They’ve been living at 112 North Hunter Street for years and love the neighborhood.  
+[[23, 46, 'HOME_ADDRESS']]
+
+I visited 313 Wiley Street to check out the new garden they planted.  
+[[10, 26, 'HOME_ADDRESS']]
+
+The house at 533 Forest Ridge Court has a beautiful garden full of colorful flowers.  
+[[13, 35, 'HOME_ADDRESS']]
+
+I went over to 265 Slater Street to help them put up holiday decorations.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I left my coat at 2035 Ninth Street and need to pick it up.  
+[[18, 35, 'HOME_ADDRESS']]
+
+We had a family picnic at 6086 Kennedy Drive in the backyard on a sunny day.  
+[[26, 44, 'HOME_ADDRESS']]
+
+The house at 430 Fig Street has a beautiful stone fireplace in the living room.  
+[[13, 27, 'HOME_ADDRESS']]
+
+I mailed the invitation to the address at 75 Wilfred Road.
+[[42, 57, 'HOME_ADDRESS']]
+
+We moved all the boxes into the garage at 5 Tranquil Place.
+[[42, 58, 'HOME_ADDRESS']]
+
+I love the garden at 16463 North 60th Avenue, it’s always full of life.  
+[[21, 44, 'HOME_ADDRESS']]
+
+The street near 6231 North 67th Avenue is very quiet and peaceful.  
+[[16, 38, 'HOME_ADDRESS']]
+
+I went over to 449 Saratoga Lane to help with their yard work.  
+[[15, 32, 'HOME_ADDRESS']]
+
+We spent the evening at 503 Blackwood Terrace Southeast, chatting and having a good time.  
+[[24, 55, 'HOME_ADDRESS']]
+
+I stayed with a friend at 65 Jones Lane for a week while traveling.  
+[[26, 39, 'HOME_ADDRESS']]
+
+We spent the afternoon at 1149 Darwin Street preparing the guest room.  
+[[26, 44, 'HOME_ADDRESS']]
+
+I went over to 1433 Bretton View Road to help with their yard work.  
+[[15, 37, 'HOME_ADDRESS']]
+
+I stopped by 4000 Beth Manor Drive to pick up the package that arrived for them.  
+[[13, 34, 'HOME_ADDRESS']]
+
+I went to 2707 Wendell Avenue to check the progress on their landscaping.  
+[[10, 29, 'HOME_ADDRESS']]
+
+We spent the day at 3827 West Chapman Avenue gardening and setting up the backyard.  
+[[20, 44, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 622 Elaine Drive.
+[[42, 58, 'HOME_ADDRESS']]
+
+I spent the day at 16 Pine Hill Street organizing their closet.  
+[[19, 38, 'HOME_ADDRESS']]
+
+We spent the afternoon at 2835 Jed Road working on some DIY projects.  
+[[26, 39, 'HOME_ADDRESS']]
+
+We had a fun evening at 1100 West Bowen Boulevard with board games and snacks.  
+[[24, 49, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 1334 East 14th Avenue.
+[[42, 63, 'HOME_ADDRESS']]
+
+We spent a lazy afternoon at 228 East Huntingdon Street, enjoying some tea.  
+[[29, 55, 'HOME_ADDRESS']]
+
+I spent the afternoon at 1101 Lotus Avenue, organizing their home library.  
+[[25, 42, 'HOME_ADDRESS']]
+
+I noticed they installed a new security camera at 238 La Salle Avenue last week.  
+[[50, 69, 'HOME_ADDRESS']]
+
+The living room at 42 Adams Road is perfect for movie nights with friends.  
+[[19, 32, 'HOME_ADDRESS']]
+
+We stayed at 2140 East 56th Avenue for a few days before heading to the beach.  
+[[13, 34, 'HOME_ADDRESS']]
+
+We went hiking around the area near 1514 Wyoming Avenue and had a great time.  
+[[36, 55, 'HOME_ADDRESS']]
+
+We spent the day at 3072 The Alameda helping with their home improvements.  
+[[20, 36, 'HOME_ADDRESS']]
+
+The family living at 171 Tolland Turnpike has a beautiful collection of artwork.
+[[21, 41, 'HOME_ADDRESS']]
+
+We spent the afternoon at 5 Westlund Avenue planting new flowers in the garden.  
+[[26, 43, 'HOME_ADDRESS']]
+
+We visited 8404 West Myrtle Avenue during our trip to the city.
+[[11, 34, 'HOME_ADDRESS']]
+
+We took a family photo at 5813 Hammermill Loop during the holiday season.  
+[[26, 46, 'HOME_ADDRESS']]
+
+I ran into my childhood friend at 2917 Danzig Place last night.  
+[[34, 51, 'HOME_ADDRESS']]
+
+I found an old key under the rug at 1520 H Street Northwest.  
+[[36, 59, 'HOME_ADDRESS']]
+
+I visited my aunt’s place at 22424 Birchwood Loop Road during the holidays.
+[[29, 54, 'HOME_ADDRESS']]
+
+I went to 829 Main Street to drop off some supplies for the party.  
+[[10, 25, 'HOME_ADDRESS']]
+
+We spent the evening at 396 Berkshire Drive watching the latest movie release.  
+[[24, 43, 'HOME_ADDRESS']]
+
+We had a fun dinner at 18713 Shilstone Way with a few close friends.  
+[[23, 42, 'HOME_ADDRESS']]
+
+I visited 488 Mill Road to help install new light fixtures.  
+[[10, 23, 'HOME_ADDRESS']]
+
+She made me a homemade pie and brought it to 74 Westerly Street.
+[[45, 63, 'HOME_ADDRESS']]
+
+I rented a car and parked it at 103 Fenwick Village Drive while I was away.  
+[[32, 57, 'HOME_ADDRESS']]
+
+I went to 618 Watts Street to help set up their new sound system.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I visited 370 Wallace Road to help them set up their new appliances.  
+[[10, 26, 'HOME_ADDRESS']]
+
+The family at 21 Longview Bluff Drive East always decorates for the holidays.
+[[14, 42, 'HOME_ADDRESS']]
+
+We took a road trip and spent the night at 6030 Newland Street on the way.  
+[[43, 62, 'HOME_ADDRESS']]
+
+We spent the afternoon at 4821 Milner Drive working on some DIY projects.  
+[[26, 43, 'HOME_ADDRESS']]
+
+I took a bus to 3373 Runnymede Place Northwest after the meeting ended.
+[[16, 46, 'HOME_ADDRESS']]
+
+We spent the afternoon at 747 West Pacific Avenue getting the house ready for the holidays.  
+[[26, 49, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 3701 Lake Towne Drive.
+[[42, 63, 'HOME_ADDRESS']]
+
+I spent the day at 451 East Street, painting the guest bedroom.  
+[[19, 34, 'HOME_ADDRESS']]
+
+I went to 21 Glenoak Lane Northwest to drop off a package for them.  
+[[10, 35, 'HOME_ADDRESS']]
+
+We spent the afternoon relaxing on the porch at 5396 North Reese Avenue.  
+[[48, 71, 'HOME_ADDRESS']]
+
+I helped my friend rearrange the furniture at 9912 Shirewick Way.  
+[[46, 64, 'HOME_ADDRESS']]
+
+We had a small dinner at 18426 West Carol Avenue with family.  
+[[25, 48, 'HOME_ADDRESS']]
+
+I came across an old letter addressed to 35 Leominster Road.
+[[41, 59, 'HOME_ADDRESS']]
+
+We spent the day at 8532 Ingalls Circle, getting ready for the holidays.  
+[[20, 39, 'HOME_ADDRESS']]
+
+I spent the afternoon at 386 Daniels Road chatting with old friends.  
+[[25, 41, 'HOME_ADDRESS']]
+
+I went to a yoga class near 4525 West Frier Drive last Saturday.  
+[[28, 49, 'HOME_ADDRESS']]
+
+We spent the evening at 185 Woodlawn Road decorating for the holidays.  
+[[24, 41, 'HOME_ADDRESS']]
+
+I can’t wait to see the renovation progress at 2040 Innes Circle.  
+[[47, 64, 'HOME_ADDRESS']]
+
+I stayed at 162 South Main Street for a week while my apartment was being painted.  
+[[12, 33, 'HOME_ADDRESS']]
+
+I found a great antique store near 7192 West Topeka Drive last weekend.  
+[[35, 57, 'HOME_ADDRESS']]
+
+We spent the weekend at 970 Old Oak Road cleaning up the yard.  
+[[24, 40, 'HOME_ADDRESS']]
+
+We spent the evening at 1622 Edgar D Nixon Avenue, watching old movies.  
+[[24, 49, 'HOME_ADDRESS']]
+
+We spent the afternoon at 3302 Woodland Park Drive organizing old books.  
+[[26, 50, 'HOME_ADDRESS']]
+
+I stayed at 410 Fairlea Drive and watched the sunrise over the mountains.  
+[[12, 29, 'HOME_ADDRESS']]
+
+The house at 3203 US Highway 98 is painted a bright yellow color.
+[[13, 31, 'HOME_ADDRESS']]
+
+I spent the day at 19 Heritage helping my friend with a DIY project.
+[[19, 30, 'HOME_ADDRESS']]
+
+We spent the afternoon fixing up the house at 8801 Rosshire Drive.  
+[[46, 65, 'HOME_ADDRESS']]
+
+We had a family dinner at 103 Fenwick Village Drive to celebrate my new job.  
+[[26, 51, 'HOME_ADDRESS']]
+
+We had a movie night at 1700 William E Summers III Avenue last weekend.
+[[24, 57, 'HOME_ADDRESS']]
+
+I went over to 615 Florida Avenue for a cup of coffee and a chat.  
+[[15, 33, 'HOME_ADDRESS']]
+
+We went to 2375 Palm Lake Drive to help them unpack after their move.  
+[[11, 31, 'HOME_ADDRESS']]
+
+I found a letter addressed to 1954 Hilltop Road in the mailbox.
+[[30, 47, 'HOME_ADDRESS']]
+
+We spent the afternoon helping out at 1707 6th Street Northwest with the home repairs.  
+[[38, 63, 'HOME_ADDRESS']]
+
+I went over to 5024 Ryan Drive to help assemble new furniture.  
+[[15, 30, 'HOME_ADDRESS']]
+
+I visited 16031 West 63rd Lane to help them set up a new lamp in the living room.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I brought some homemade cookies over to 1523 South 9th Street to share.  
+[[40, 61, 'HOME_ADDRESS']]
+
+We had a family dinner at 1481 Stannage Avenue to celebrate my new job.  
+[[26, 46, 'HOME_ADDRESS']]
+
+I visited 7431 Candace Way to help them rearrange their living room.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I went to 7095 Gladiola Street to help them with some spring cleaning.  
+[[10, 30, 'HOME_ADDRESS']]
+
+My cousin’s wedding was held at 324 Martin Luther King Junior Boulevard.
+[[32, 71, 'HOME_ADDRESS']]
+
+My aunt lives at 12 17th Place and has a beautiful rose garden.  
+[[17, 30, 'HOME_ADDRESS']]
+
+We stopped by 37 East Broad Street to pick up some things before heading out.  
+[[14, 34, 'HOME_ADDRESS']]
+
+I went to 725 65th Street to drop off the donations they needed.  
+[[10, 25, 'HOME_ADDRESS']]
+
+I attended a conference call from 20250 North 67th Avenue this morning.
+[[34, 57, 'HOME_ADDRESS']]
+
+They put up some fairy lights around the house at 11941 West 58th Avenue.  
+[[50, 72, 'HOME_ADDRESS']]
+
+The movers had trouble navigating the narrow street to 3031 Montgomery Street.
+[[55, 77, 'HOME_ADDRESS']]
+
+I went over to 257 Broadway to help them fix the fence.  
+[[15, 27, 'HOME_ADDRESS']]
+
+We spent the afternoon at 9223 Elgin Circle painting the fence.
+[[26, 43, 'HOME_ADDRESS']]
+
+I’m meeting my coworker at 519 Roxboro Place Northwest for a weekend project.  
+[[27, 54, 'HOME_ADDRESS']]
+
+I stopped by 814 Keswick Boulevard to pick up the tools I left there.  
+[[13, 34, 'HOME_ADDRESS']]
+
+I caught up with an old friend at 5707 Whispering Hills Boulevard last week.
+[[34, 65, 'HOME_ADDRESS']]
+
+I visited 327 Fairway Boulevard to check out the new renovations.  
+[[10, 31, 'HOME_ADDRESS']]
+
+They recently put up new curtains at 450 C Street that look amazing.  
+[[37, 49, 'HOME_ADDRESS']]
+
+The garden at 4712 Cherokee Heights Road has a beautiful rose bush.  
+[[14, 40, 'HOME_ADDRESS']]
+
+I’ve lived at 5108 Bass Place Southeast for over a decade.
+[[14, 39, 'HOME_ADDRESS']]
+
+I helped my aunt move some furniture at 5603 Dune Creek Trail last weekend.  
+[[40, 61, 'HOME_ADDRESS']]
+
+We spent a cozy evening at 242 North Ash Street with some homemade hot chocolate.  
+[[27, 47, 'HOME_ADDRESS']]
+
+I visited 816 West 19th Avenue to help them clean the living room.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I went to 1819 Q Street Southeast to drop off some extra gardening tools.  
+[[10, 33, 'HOME_ADDRESS']]
+
+My childhood memories are tied to 66 Bradford Road.
+[[34, 50, 'HOME_ADDRESS']]
+
+I visited 91 Hoague Drive to catch up with an old friend.  
+[[10, 25, 'HOME_ADDRESS']]
+
+I went over to 2315 Chestnut Street to help with unpacking boxes after the move.  
+[[15, 35, 'HOME_ADDRESS']]
+
+We had a small family celebration at 2640 8th Avenue to mark an anniversary.  
+[[37, 52, 'HOME_ADDRESS']]
+
+I visited 815 Plantation Drive to help my friend move in last weekend.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I visited 18713 Shilstone Way to help organize the laundry room.  
+[[10, 29, 'HOME_ADDRESS']]
+
+She finally got her dream house at 105 West Wareingwood Drive after years of saving.  
+[[35, 61, 'HOME_ADDRESS']]
+
+I spent the afternoon baking cookies at 2850 Davenport Street Northwest and invited some friends over.  
+[[40, 71, 'HOME_ADDRESS']]
+
+We hosted a small dinner at 234 East Beach Drive with close family.  
+[[28, 48, 'HOME_ADDRESS']]
+
+I spent the night at 5311 Chenoweth Park Lane before going on a business trip.  
+[[21, 45, 'HOME_ADDRESS']]
+
+The house at 1709 Southeast 51st Street is decorated with vintage furniture and artwork.  
+[[13, 39, 'HOME_ADDRESS']]
+
+I visited my childhood friend at 2802 US Highway 98 to catch up on life.  
+[[33, 51, 'HOME_ADDRESS']]
+
+I stopped by 464 Springfield Street to drop off some things I borrowed.  
+[[13, 35, 'HOME_ADDRESS']]
+
+The house at 3114 US Highway 98 is surrounded by tall trees and a garden.  
+[[13, 31, 'HOME_ADDRESS']]
+
+I went to 841 Whittier Hill Road to help them with their spring cleaning.  
+[[10, 32, 'HOME_ADDRESS']]
+
+We spent the day at 620 Veta Avenue decorating for the holiday season.  
+[[20, 35, 'HOME_ADDRESS']]
+
+I once hosted a barbecue at 2505 North Hampton Court for my friends.
+[[28, 52, 'HOME_ADDRESS']]
+
+The living room at 57 Hidden Lake Court has a beautiful view of the city skyline.  
+[[19, 39, 'HOME_ADDRESS']]
+
+I spent the day at 2507 R Street Southeast helping my friend with a DIY project.
+[[19, 42, 'HOME_ADDRESS']]
+
+I left a gift on the porch at 7030 West Krall Street for my friend.
+[[30, 52, 'HOME_ADDRESS']]
+
+I visited 700 Winston Place last weekend to check on the renovations.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I stopped by 7502 Kingman Street to check in on their new kitchen.  
+[[13, 32, 'HOME_ADDRESS']]
+
+We spent the day at 2631 Northrup Place putting together furniture.  
+[[20, 39, 'HOME_ADDRESS']]
+
+I received a letter addressed to 208 Timrod Road that wasn’t meant for me.  
+[[33, 48, 'HOME_ADDRESS']]
+
+I went to 12245 West 71st Place to help them with some spring cleaning.  
+[[10, 31, 'HOME_ADDRESS']]
+
+We had a cozy evening at 5161 Jefferson Boulevard, enjoying board games and snacks.  
+[[25, 49, 'HOME_ADDRESS']]
+
+I borrowed a book from the library at 1995 Nolensville Pike yesterday.  
+[[38, 59, 'HOME_ADDRESS']]
+
+We spent the day at 9302 West 58th Avenue putting together furniture.  
+[[20, 41, 'HOME_ADDRESS']]
+
+I went to 7113 North 69th Avenue to assist with some landscaping in the front yard.  
+[[10, 32, 'HOME_ADDRESS']]
+
+The friends I’m visiting are staying at 319 Elderwood Court.
+[[40, 59, 'HOME_ADDRESS']]
+
+I helped my cousin clean out the attic at 501 West Maple Street.  
+[[42, 63, 'HOME_ADDRESS']]
+
+I sent a birthday card to 37 Kensington Street for my cousin’s birthday.  
+[[26, 46, 'HOME_ADDRESS']]
+
+I went to 6123 West Marlette Avenue to drop off some extra gardening tools.  
+[[10, 35, 'HOME_ADDRESS']]
+
+We had a nice dinner at 4132 Carmichael Road with a few close friends.  
+[[24, 44, 'HOME_ADDRESS']]
+
+We had a cozy dinner at 1216 West Hill Street with homemade soup.  
+[[24, 45, 'HOME_ADDRESS']]
+
+The police were called to 5337 West Wheeler Road for a noise complaint.
+[[26, 48, 'HOME_ADDRESS']]
+
+I went over to 1521 159th Avenue to help them install a new fan.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I stayed at 19448 Currant Drive while I was between apartments.  
+[[12, 31, 'HOME_ADDRESS']]
+
+We celebrated the New Year at 1700 William E Summers III Avenue with friends and family.  
+[[30, 63, 'HOME_ADDRESS']]
+
+We spent the weekend at 4333 Catherine Street, working on a home improvement project.  
+[[24, 45, 'HOME_ADDRESS']]
+
+We went to a small gathering at 7105 Tanager Avenue last weekend.  
+[[32, 51, 'HOME_ADDRESS']]
+
+I stayed at 1709 Vineyard Trail for a few days to take care of their pets.  
+[[12, 31, 'HOME_ADDRESS']]
+
+I went to 5403 Illinois Avenue for a family reunion last weekend.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I stopped by 816 East 69th Street to check on their new outdoor seating area.  
+[[13, 33, 'HOME_ADDRESS']]
+
+We went to a small gathering at 1030 Lake Claire Drive last weekend.  
+[[32, 54, 'HOME_ADDRESS']]
+
+I dropped by 57 Hidden Lake Court to help them sort through old boxes.  
+[[13, 33, 'HOME_ADDRESS']]
+
+My childhood friend lives at 1701 18th Avenue South now.
+[[29, 51, 'HOME_ADDRESS']]
+
+We had a quiet evening at 83 Kennedy Road, talking and eating snacks.
+[[26, 41, 'HOME_ADDRESS']]
+
+The event was held at 269 Park Street and everyone had a great time.
+[[22, 37, 'HOME_ADDRESS']]
+
+I stopped by 683 North Wilson Avenue to see how their garden was coming along.  
+[[13, 36, 'HOME_ADDRESS']]
+
+I rented a car and parked it at 910 Arlington Terrace while I was away.  
+[[32, 53, 'HOME_ADDRESS']]
+
+We spent the afternoon fixing up the house at 4207 Ranch Drive.  
+[[46, 62, 'HOME_ADDRESS']]
+
+I went over to 653 Vermont 12 to help with the packing before the move.  
+[[15, 29, 'HOME_ADDRESS']]
+
+We spent the afternoon cleaning up the yard at 1002 Highland Avenue.  
+[[47, 67, 'HOME_ADDRESS']]
+
+I took a bus to 3808 Richland Avenue after the meeting ended.
+[[16, 36, 'HOME_ADDRESS']]
+
+We had a cozy evening at 100 Birney Street with a hot cup of tea.  
+[[25, 42, 'HOME_ADDRESS']]
+
+We had a family dinner at 142 Ash Drive and it was delicious.  
+[[26, 39, 'HOME_ADDRESS']]
+
+I visited 8216 West Citrus Way to drop off a housewarming gift for them.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I was invited to an anniversary celebration at 7420 Bearfoot Circle this weekend.  
+[[47, 67, 'HOME_ADDRESS']]
+
+I stopped by 323 Randolph Street to pick up the book I borrowed.  
+[[13, 32, 'HOME_ADDRESS']]
+
+The address on my invitation was listed as 3323 Summerhill Drive.  
+[[43, 64, 'HOME_ADDRESS']]
+
+We stayed at 5921 Ashwood Bluff Drive while our house was being painted.  
+[[13, 37, 'HOME_ADDRESS']]
+
+I went over to 61 Callahan Way to assist with some yard work.  
+[[15, 30, 'HOME_ADDRESS']]
+
+I spent a lot of time at 3203 US Highway 98 last year helping with the renovation project.  
+[[25, 43, 'HOME_ADDRESS']]
+
+I went over to 4316 Sunnybrook Drive to help assemble new furniture.  
+[[15, 36, 'HOME_ADDRESS']]
+
+I went to 4255 Tanager Common to help with unpacking after their move.  
+[[10, 29, 'HOME_ADDRESS']]
+
+I went over to 14 Hillside Terrace to pick up some clothes I left there.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I spent the afternoon at 836 Lamont Street Northwest organizing the bookshelves.  
+[[25, 52, 'HOME_ADDRESS']]
+
+We spent the weekend at 20 Masters Way cleaning up the yard.  
+[[24, 38, 'HOME_ADDRESS']]
+
+We had a fun barbecue at 1701 18th Avenue South to kick off the summer.  
+[[25, 47, 'HOME_ADDRESS']]
+
+I stopped by 9827 Davenport Avenue to collect my mail and check on things.  
+[[13, 34, 'HOME_ADDRESS']]
+
+I noticed the new backyard deck at 17480 Beaujolais Circle and it looks amazing.  
+[[35, 58, 'HOME_ADDRESS']]
+
+I walked by 19 Murray Road and noticed they had installed new lighting outside.  
+[[12, 26, 'HOME_ADDRESS']]
+
+We had a lovely evening at 314 Cherrywood Drive enjoying dinner and dessert.  
+[[27, 47, 'HOME_ADDRESS']]
+
+We spent the afternoon at 732 Kevin Court organizing old books.  
+[[26, 41, 'HOME_ADDRESS']]
+
+I went to 6201 West Olive Avenue to help set up a new home security system.  
+[[10, 32, 'HOME_ADDRESS']]
+
+I stopped by 335 C Street Southeast to drop off some freshly baked cookies.  
+[[13, 35, 'HOME_ADDRESS']]
+
+I walked past 275 Ridge Lane and noticed the new mailbox.  
+[[14, 28, 'HOME_ADDRESS']]
+
+We had a fun game night at 4617 East 3rd Street with snacks and drinks.  
+[[27, 47, 'HOME_ADDRESS']]
+
+The fire department responded to a call at 12061 Johns Road last night.
+[[43, 59, 'HOME_ADDRESS']]
+
+I walked past 1605 Remington Road on my way to the park this morning.  
+[[14, 33, 'HOME_ADDRESS']]
+
+I left my jacket at 1400 Doris Drive after the party.
+[[20, 36, 'HOME_ADDRESS']]
+
+I went to 35 Pilgrim Lane to return the tools I borrowed for some yard work.  
+[[10, 25, 'HOME_ADDRESS']]
+
+The mailbox at 416 McIver Street is always full of postcards from friends.  
+[[15, 32, 'HOME_ADDRESS']]
+
+I enjoyed a relaxing weekend at 12901 Mission Circle after a hectic work week.  
+[[32, 52, 'HOME_ADDRESS']]
+
+I grew up at 2017 North Hartford Drive, it will always be home to me.
+[[13, 38, 'HOME_ADDRESS']]
+
+I received a parcel for my neighbor at 5747 West Missouri Avenue.  
+[[39, 64, 'HOME_ADDRESS']]
+
+I moved to 10826 Pointe Royal Drive last year for a fresh start.
+[[11, 35, 'HOME_ADDRESS']]
+
+I walked over to 5410 McLean Drive for a quick visit.
+[[17, 34, 'HOME_ADDRESS']]
+
+I went to 8421 Thomas Drive to assist with hanging new curtains.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I noticed a new birdbath in the garden at 7401 West Arrowhead Clubhouse Drive when I visited.  
+[[42, 77, 'HOME_ADDRESS']]
+
+We took some great photos at 619 Colusa Avenue during our vacation.  
+[[29, 46, 'HOME_ADDRESS']]
+
+They built a treehouse in the backyard of 1400 Rosa L Parks Boulevard.
+[[42, 69, 'HOME_ADDRESS']]
+
+The neighbors invited us to their home at 325 Alexander Drive for dinner.
+[[42, 61, 'HOME_ADDRESS']]
+
+I got a letter delivered to 4341 Ponds Street Northeast yesterday.
+[[28, 55, 'HOME_ADDRESS']]
+
+I went to 7041 Coe Road to borrow a ladder to fix my roof.  
+[[10, 23, 'HOME_ADDRESS']]
+
+I went over to 2809 Briarcliff Road to help them put up their holiday decorations.  
+[[15, 35, 'HOME_ADDRESS']]
+
+I’m helping my parents organize their belongings at 320 South Ramblin Oaks Drive before the move.  
+[[52, 80, 'HOME_ADDRESS']]
+
+We had a cozy gathering at 1320 Huffman Park Drive with some hot cocoa.  
+[[27, 50, 'HOME_ADDRESS']]
+
+I spent the day at 125 Heritage Way helping them paint the fence.  
+[[19, 35, 'HOME_ADDRESS']]
+
+I was invited to an anniversary celebration at 5805 Armada Drive this weekend.  
+[[47, 64, 'HOME_ADDRESS']]
+
+We had a family dinner at 3145 19th Avenue Court, enjoying everyone’s company.  
+[[26, 48, 'HOME_ADDRESS']]
+
+I spent the afternoon shopping near 3466 Southview Avenue for some new furniture.  
+[[36, 57, 'HOME_ADDRESS']]
+
+I spent the night at 4 Old Colony Way before going on a business trip.  
+[[21, 37, 'HOME_ADDRESS']]
+
+I noticed they got a new mailbox at 1 Kelton Court.  
+[[36, 50, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 8772 West 79th Avenue and stayed up late chatting.  
+[[26, 47, 'HOME_ADDRESS']]
+
+We took some great photos at 4712 Cherokee Heights Road during our vacation.  
+[[29, 55, 'HOME_ADDRESS']]
+
+We’re planning a family reunion at 1613 Maple Timber Court this year.
+[[35, 58, 'HOME_ADDRESS']]
+
+I helped my sister arrange the furniture at 412 West Ila Street.  
+[[44, 63, 'HOME_ADDRESS']]
+
+I went over to 12022 Town Park Circle to help with the spring cleaning.
+[[15, 37, 'HOME_ADDRESS']]
+
+The house at 4600 East Huntsville Road is known for its beautiful garden.  
+[[13, 38, 'HOME_ADDRESS']]
+
+I helped my neighbor paint the walls at 132 Laurel Green Court over the weekend.  
+[[40, 62, 'HOME_ADDRESS']]
+
+I walked by 17 Gregory Street and saw a new car in the driveway.  
+[[12, 29, 'HOME_ADDRESS']]
+
+We spent the weekend at 6057 Griffith Avenue working on the garden.  
+[[24, 44, 'HOME_ADDRESS']]
+
+I found my old toys while cleaning the attic at 22219 Panama City Beach Parkway.
+[[48, 79, 'HOME_ADDRESS']]
+
+I went over to 1613 Maple Timber Court to help with the packing before the move.  
+[[15, 38, 'HOME_ADDRESS']]
+
+I enjoyed a relaxing weekend at 23124 North 71st Drive after a hectic work week.  
+[[32, 54, 'HOME_ADDRESS']]
+
+I went to 1636 Briarview Court to assist with some landscaping in the front yard.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I went over to 4375 West Missouri Avenue to check out their new kitchen cabinets.  
+[[15, 40, 'HOME_ADDRESS']]
+
+We celebrated my cousin’s birthday at 1931 West Deane Street.
+[[38, 60, 'HOME_ADDRESS']]
+
+We spent a lazy Sunday at 1456 North Coghill Drive, reading and chatting.  
+[[26, 50, 'HOME_ADDRESS']]
+
+I parked my car in front of 2577 East Wyman Road last night.
+[[28, 48, 'HOME_ADDRESS']]
+
+He moved to 294 East Lakeshore Drive last month for his new job.  
+[[12, 36, 'HOME_ADDRESS']]
+
+I went to 3820 North Peniel Avenue to drop off a package for them.  
+[[10, 34, 'HOME_ADDRESS']]
+
+I went to 2829 Cambridge Court to help them set up the new home office.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I went over to 1650 Garland Avenue to help rearrange the furniture in the living room.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I spent the afternoon at 1145 Chaseway Drive, fixing some things around the house.  
+[[25, 44, 'HOME_ADDRESS']]
+
+We spent the evening at 634 Chautauqua Avenue enjoying a homemade dinner and drinks.  
+[[24, 45, 'HOME_ADDRESS']]
+
+I spent the day at 6941 West 87th Way organizing their closet.  
+[[19, 37, 'HOME_ADDRESS']]
+
+My aunt just got a new pet and named it after 370 Wallace Road.  
+[[46, 62, 'HOME_ADDRESS']]
+
+I went to 3162 Martin Luther King Junior Boulevard to help install new light bulbs in the hallway.  
+[[10, 50, 'HOME_ADDRESS']]
+
+I noticed the new coat of paint on the front door of 7808 Baltimore Annapolis Boulevard.  
+[[53, 87, 'HOME_ADDRESS']]
+
+I went over to 2130 Winona Avenue to help install a new washing machine.  
+[[15, 33, 'HOME_ADDRESS']]
+
+I spent the day at 11140 West 60th Avenue helping them install some new light fixtures.  
+[[19, 41, 'HOME_ADDRESS']]
+
+We spent the weekend at 312 Northwest 90th Street, working on a home improvement project.  
+[[24, 49, 'HOME_ADDRESS']]
+
+I went to 8219 Minor Lane to deliver some packages they had ordered.  
+[[10, 25, 'HOME_ADDRESS']]
+
+I bought a new coffee table and placed it at 3642 Chatsworth Road.  
+[[45, 65, 'HOME_ADDRESS']]
+
+I went to 219 Bidwell Street to drop off some extra gardening tools.  
+[[10, 28, 'HOME_ADDRESS']]
+
+The house at 2654 Quiet Water Cove was recently painted.
+[[13, 34, 'HOME_ADDRESS']]
+
+I spent the afternoon at 4385 Wares Ferry Road setting up their new bookshelf.  
+[[25, 46, 'HOME_ADDRESS']]
+
+He invited me over to 7431 Gilbert Road for dinner on Sunday.
+[[22, 39, 'HOME_ADDRESS']]
+
+I stopped by 2212 Daffin Drive to drop off some flowers for my mom.  
+[[13, 30, 'HOME_ADDRESS']]
+
+We had a great time at 1309 Graniteville Road watching movies all night.  
+[[23, 45, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 5900 Upland Road, catching up with each other.  
+[[26, 42, 'HOME_ADDRESS']]
+
+I mailed the invitation to the address at 4231 Laurel Street.
+[[42, 60, 'HOME_ADDRESS']]
+
+I stopped by 113 Dove Lane to help them clean out the garage.  
+[[13, 26, 'HOME_ADDRESS']]
+
+We used to walk to school from 3101 Penland Parkway every day.
+[[31, 51, 'HOME_ADDRESS']]
+
+The house at 2040 Innes Circle has a large backyard and a pool.  
+[[13, 30, 'HOME_ADDRESS']]
+
+My aunt just got a new pet and named it after 521 McGregor Court.  
+[[46, 64, 'HOME_ADDRESS']]
+
+I visited 1261 Sioux Terrace to check out the new renovations in the kitchen.  
+[[10, 28, 'HOME_ADDRESS']]
+
+I went to 5123 Ewell Street to return the tools I borrowed for some yard work.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I stopped by 108 Springer Lane to help with organizing the garage.  
+[[13, 30, 'HOME_ADDRESS']]
+
+We had a lovely evening at 516 Southwest 60th Terrace enjoying dinner and dessert.  
+[[27, 53, 'HOME_ADDRESS']]
+
+I spent the weekend at 6005 Tamarack Drive helping them get ready for a move.  
+[[23, 42, 'HOME_ADDRESS']]
+
+We had a picnic in the backyard at 6407 West Monte Cristo Avenue to enjoy the nice weather.  
+[[35, 64, 'HOME_ADDRESS']]
+
+I went over to 152 Teddy Drive to help with some yard work.  
+[[15, 30, 'HOME_ADDRESS']]
+
+We went for a walk around the block near 1713 Arrow Cove Lane after dinner.  
+[[41, 61, 'HOME_ADDRESS']]
+
+We had a cozy evening at 2100 Sandy Creek Trail watching movies and chatting.  
+[[25, 47, 'HOME_ADDRESS']]
+
+I went to 16 Clark Street to check if they needed help with the gardening.  
+[[10, 25, 'HOME_ADDRESS']]
+
+We spent the day at 4712 Rock Creek Road unpacking and organizing.  
+[[20, 40, 'HOME_ADDRESS']]
+
+My family’s vacation home is located at 2115 Longest Avenue.
+[[40, 59, 'HOME_ADDRESS']]
+
+We went out for a walk around 7113 North 69th Avenue to explore the area.  
+[[30, 52, 'HOME_ADDRESS']]
+
+My best friend lives just around the corner from 3623 Chateau Lane.
+[[49, 66, 'HOME_ADDRESS']]
+
+I helped my friend pack boxes at 1816 14th Avenue in preparation for their move.  
+[[33, 49, 'HOME_ADDRESS']]
+
+I dropped my wallet at 631 West 32nd Avenue and couldn’t find it.
+[[23, 43, 'HOME_ADDRESS']]
+
+I went over to 1026 Orchard Avenue to help them put up holiday decorations.  
+[[15, 34, 'HOME_ADDRESS']]
+
+You can reach me at 11724 Rushmore whenever you want.
+[[20, 34, 'HOME_ADDRESS']]
+
+I helped my friend rearrange the furniture at 117 South Capitol Parkway last weekend.  
+[[46, 71, 'HOME_ADDRESS']]
+
+The house at 45 Brackett Street has a spacious front porch where they like to relax.  
+[[13, 31, 'HOME_ADDRESS']]
+
+I visited 7296 West Wedington Drive to see their new backyard landscaping.  
+[[10, 35, 'HOME_ADDRESS']]
+
+I visited 38252 Farwell Drive during my business trip and it was so peaceful.  
+[[10, 29, 'HOME_ADDRESS']]
+
+We went to the park near 2245 Southwest Binkley Street and had a wonderful time.  
+[[25, 54, 'HOME_ADDRESS']]
+
+I went to 1666 South Summer Rose Avenue to check if they needed help setting up the guest room.  
+[[10, 39, 'HOME_ADDRESS']]
+
+The kitchen at 6500 Thurlow Place has a beautiful island with marble countertops.  
+[[15, 33, 'HOME_ADDRESS']]
+
+I helped my friend organize their closet at 11507 East Neville Avenue last weekend.  
+[[44, 69, 'HOME_ADDRESS']]
+
+They moved into a bigger house at 4525 West Frier Drive.
+[[34, 55, 'HOME_ADDRESS']]
+
+We had a nice dinner at 503 Blackwood Terrace Southeast with a few close friends.  
+[[24, 55, 'HOME_ADDRESS']]
+
+The family at 614 East Duffy Lane just got a new dog, and they love taking it for walks.  
+[[14, 33, 'HOME_ADDRESS']]
+
+We spent the day at 908 Lodge Hill Road fixing up the garden.  
+[[20, 39, 'HOME_ADDRESS']]
+
+We hosted a small dinner at 2313 Vegas Avenue to celebrate my promotion.  
+[[28, 45, 'HOME_ADDRESS']]
+
+We went to 512 Danley Court to celebrate my birthday with my family.  
+[[11, 27, 'HOME_ADDRESS']]
+
+I dropped my keys while walking to 6241 Hudson Creek Drive.
+[[35, 58, 'HOME_ADDRESS']]
+
+I found an old baseball glove at 2649 Firewood Drive while cleaning.
+[[33, 52, 'HOME_ADDRESS']]
+
+I went to 6604 West Montebello Avenue for a long weekend stay to relax and unwind.
+[[10, 37, 'HOME_ADDRESS']]
+
+I went to 210 Seaman to borrow some tools for the yard work.  
+[[10, 20, 'HOME_ADDRESS']]
+
+We had a fun dinner at 343 Daman Drive with a few close friends.  
+[[23, 38, 'HOME_ADDRESS']]
+
+I stopped by 1643 North Jordan Lane to help with gardening and planting flowers.  
+[[13, 35, 'HOME_ADDRESS']]
+
+I spent the afternoon playing games at 38 Renwick Road with my little brother.  
+[[39, 54, 'HOME_ADDRESS']]
+
+We went to 425 Middle Turnpike East for a family dinner and had a great time.  
+[[11, 35, 'HOME_ADDRESS']]
+
+He called me from 353 O Street Southwest earlier today.
+[[18, 40, 'HOME_ADDRESS']]
+
+I stopped by 14505 Landis Villa Drive to visit a friend who just moved in.  
+[[13, 37, 'HOME_ADDRESS']]
+
+The renovation at 126 Marjorie Lane will be completed next month.  
+[[18, 35, 'HOME_ADDRESS']]
+
+I spent the day at 1734 Corcoran Street Northwest, painting the guest bedroom.  
+[[19, 49, 'HOME_ADDRESS']]
+
+I spent the weekend at 932 Northwest 20th Street catching up with old friends.  
+[[23, 48, 'HOME_ADDRESS']]
+
+I found an old family photo album while sorting through the attic at 2399 East 14th Street.  
+[[69, 90, 'HOME_ADDRESS']]
+
+I left my glasses at 13213 Spanish Moss Road last weekend.  
+[[21, 44, 'HOME_ADDRESS']]
+
+I had a great time volunteering at 12039 West 85th Drive for the charity event.  
+[[35, 56, 'HOME_ADDRESS']]
+
+The neighbors at 40 Highwood Drive have a beautiful garden that I admire every time I visit.  
+[[17, 34, 'HOME_ADDRESS']]
+
+My new neighbors just moved into 6231 North 67th Avenue last weekend.
+[[33, 55, 'HOME_ADDRESS']]
+
+We had a movie night at 11 Pine Point Road last weekend.
+[[24, 42, 'HOME_ADDRESS']]
+
+I spent the weekend at 8320 Cloud Street catching up with old friends.  
+[[23, 40, 'HOME_ADDRESS']]
+
+I went over to 7407 North 75th Drive to visit my friend and his new dog.  
+[[15, 36, 'HOME_ADDRESS']]
+
+We spent the afternoon at 3610 Story Road decorating the house for fall.  
+[[26, 41, 'HOME_ADDRESS']]
+
+My new neighbors just moved into 4537 Tanglewood Trail last weekend.
+[[33, 54, 'HOME_ADDRESS']]
+
+I visited 10202 North 51st Drive to check on the new kitchen renovations they were doing.  
+[[10, 32, 'HOME_ADDRESS']]
+
+I stopped by 14006 Coffee Bluff Road to help with some light home repairs.  
+[[13, 36, 'HOME_ADDRESS']]
+
+We hosted a game night at 1800 East 63rd Street last Friday.
+[[26, 47, 'HOME_ADDRESS']]
+
+The house at 841 Whittier Hill Road has a beautiful vintage chandelier in the dining room.  
+[[13, 35, 'HOME_ADDRESS']]
+
+I helped my cousin unpack at 171 Brickhill Circle and get settled in.  
+[[29, 49, 'HOME_ADDRESS']]
+
+We held a small wedding reception at 945 South 5th Street for our family and friends.  
+[[37, 57, 'HOME_ADDRESS']]
+
+I visited 2315 Chestnut Street to help set up their new front porch furniture.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I visited 13 Warren Avenue to help them organize their pantry.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I visited a friend’s new place at 140 William Chambers Junior Drive last night.  
+[[34, 67, 'HOME_ADDRESS']]
+
+We spent the afternoon at 10714 Abercorn Street baking treats for the holidays.  
+[[26, 47, 'HOME_ADDRESS']]
+
+We spent a cozy afternoon at 7941 Alpine View Circle, making crafts for the holidays.  
+[[29, 52, 'HOME_ADDRESS']]
+
+We stayed at 1309 Clay Avenue for a few days before heading to the beach.  
+[[13, 29, 'HOME_ADDRESS']]
+
+I ran errands and stopped by 1606 Aaron Street to grab something.
+[[29, 46, 'HOME_ADDRESS']]
+
+We went to a small gathering at 3579 2nd Avenue last weekend.  
+[[32, 47, 'HOME_ADDRESS']]
+
+I received a wedding invitation sent to 10714 Abercorn Street.
+[[40, 61, 'HOME_ADDRESS']]
+
+The house at 11160 Vosikof Place has a large attic that’s perfect for storage.  
+[[13, 32, 'HOME_ADDRESS']]
+
+I used to live at 9920 West 81st Avenue, but I moved to a new city.  
+[[18, 39, 'HOME_ADDRESS']]
+
+I received a surprise gift at 7237 Wild Currant Way from my best friend.  
+[[30, 51, 'HOME_ADDRESS']]
+
+We had a family dinner at 12002 Vanherr Drive, and it was delicious.  
+[[26, 45, 'HOME_ADDRESS']]
+
+The house at 7785 Montgomery Mews Court has a beautiful vintage chandelier in the dining room.  
+[[13, 39, 'HOME_ADDRESS']]
+
+We hosted a dinner party at 12610 Webber Road to celebrate my promotion.  
+[[28, 45, 'HOME_ADDRESS']]
+
+I went over to 12 Saint Andrews Crossover to help them install new tiles in the bathroom.  
+[[15, 41, 'HOME_ADDRESS']]
+
+I went to 1771 Daisey Court to drop off some extra gardening tools.  
+[[10, 27, 'HOME_ADDRESS']]
+
+I stopped by 1400 Rosa L Parks Boulevard to catch up with an old friend.  
+[[13, 40, 'HOME_ADDRESS']]
+
+We spent the afternoon at 188 Saint Matthews Avenue organizing the pantry.  
+[[26, 51, 'HOME_ADDRESS']]
+
+I received a gift at 2024 Merrily Drive for my birthday.
+[[21, 39, 'HOME_ADDRESS']]
+
+I went over to 435 East 5th Avenue to help with the backyard cleanup.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I went to 2170 Benton Boulevard to drop off the donations they needed.  
+[[10, 31, 'HOME_ADDRESS']]
+
+I went over to 110 Lenoak Drive to help with a quick home repair.  
+[[15, 31, 'HOME_ADDRESS']]
+
+I went to 24 Lambert Street to help them set up their new couch.  
+[[10, 27, 'HOME_ADDRESS']]
+
+My old high school is near 1456 North Coghill Drive.
+[[27, 51, 'HOME_ADDRESS']]
+
+I went over to 12 Netherclift Way to help them rearrange their living room.
+[[15, 33, 'HOME_ADDRESS']]
+
+We spent the afternoon at 5803 West Gelding Drive decorating the house for fall.  
+[[26, 49, 'HOME_ADDRESS']]
+
+They just repainted the walls at 6385 Oak Street and it looks fantastic.  
+[[33, 48, 'HOME_ADDRESS']]
+
+We spent the afternoon at 31250 Courthouse Drive, cleaning and organizing.  
+[[26, 48, 'HOME_ADDRESS']]
+
+We spent the day at 174 Village Lake Drive, cleaning the garage and sorting things out.  
+[[20, 42, 'HOME_ADDRESS']]
+
+I ran errands and stopped by 3320 Peterkin Avenue to grab something.
+[[29, 49, 'HOME_ADDRESS']]
+
+I parked my car in front of 1400 Rosa L Parks Boulevard last night.
+[[28, 55, 'HOME_ADDRESS']]
+
+I’m going to 376 North Williams Drive this afternoon to drop off the gifts.
+[[13, 37, 'HOME_ADDRESS']]
+
+We took a family photo at 95 Westbourne Way during the holiday season.  
+[[26, 43, 'HOME_ADDRESS']]
+
+I spent the evening at 2100 Sandy Creek Trail, chatting and having tea.  
+[[23, 45, 'HOME_ADDRESS']]
+
+I spent the day at 45430 Lauri Lane, painting the guest bedroom.  
+[[19, 35, 'HOME_ADDRESS']]
+
+I helped my friend pick out new furniture for their living room at 517 Retford Drive.  
+[[67, 84, 'HOME_ADDRESS']]
+
+We spent the day organizing the attic at 6095 Terry Lane.  
+[[41, 56, 'HOME_ADDRESS']]
+
+I spent the day at 20 Masters Way helping my friend with a DIY project.
+[[19, 33, 'HOME_ADDRESS']]
+
+I finally bought my first house at 25 Church Street last year.  
+[[35, 51, 'HOME_ADDRESS']]
+
+I walked to the store from 1109 East Glenn Lane earlier today.
+[[27, 47, 'HOME_ADDRESS']]
+
+We walked past 5205 West Thunderbird Road and noticed they had a new garden.  
+[[15, 41, 'HOME_ADDRESS']]
+
+I borrowed a ladder from 5650 West 60th Avenue to reach the high branches in my yard.  
+[[25, 46, 'HOME_ADDRESS']]
+
+I stopped by 257 Broadway to give them a hand with the house chores.  
+[[13, 25, 'HOME_ADDRESS']]
+
+The local police station is located near 625 West Main Street.  
+[[41, 61, 'HOME_ADDRESS']]
+
+I stopped by 7808 Baltimore Annapolis Boulevard to pick up the documents I left behind.  
+[[13, 47, 'HOME_ADDRESS']]
+
+He moved to 1558 Goodfellow Road last month for his new job.  
+[[12, 32, 'HOME_ADDRESS']]
+
+My brother moved into the apartment at 10 South Main Street last month.
+[[39, 59, 'HOME_ADDRESS']]
+
+I went over to 6369 West 70th Drive to drop off the extra snacks I made.  
+[[15, 35, 'HOME_ADDRESS']]
+
+I visited 6687 Xenon Drive to check on the progress of their renovation.  
+[[10, 26, 'HOME_ADDRESS']]
+
+I spent the afternoon shopping near 5144 Cattail Court for some new furniture.  
+[[36, 54, 'HOME_ADDRESS']]
+
+I dropped by 172 Chestnut Street for a quick coffee and chat yesterday.  
+[[13, 32, 'HOME_ADDRESS']]
+
+I ran into an old friend at 2502 Adrienne Way while walking my dog.  
+[[28, 45, 'HOME_ADDRESS']]
+
+I went over to 663 Chesapeake Way to check out the new renovations.  
+[[15, 33, 'HOME_ADDRESS']]
+
+We celebrated Christmas at 2008 North Shannon Drive with all of our relatives.  
+[[27, 51, 'HOME_ADDRESS']]
+
+We threw a housewarming party at 15771 West 64th Avenue when we moved in.
+[[33, 55, 'HOME_ADDRESS']]
+
+The house at 11522 Country Spring Court was on the market for only a week.  
+[[13, 39, 'HOME_ADDRESS']]
+
+I went to 6740 Dickerson Drive to help them with organizing the garage.  
+[[10, 30, 'HOME_ADDRESS']]
+
+We had a great time at 21323 North 64th Avenue, playing board games and chatting.  
+[[23, 46, 'HOME_ADDRESS']]
+
+I borrowed a ladder from 467 Biscayne Avenue Northwest to reach the high branches in my yard.  
+[[25, 54, 'HOME_ADDRESS']]
+
+We had a family dinner at 618 Amberjack Drive, and it was delicious.  
+[[26, 45, 'HOME_ADDRESS']]
+
+I went over to 6143 Prosperity Drive to help with the home repairs.  
+[[15, 36, 'HOME_ADDRESS']]
+
+We spent the evening outside at 103 Chevis Road, grilling and chatting.  
+[[32, 47, 'HOME_ADDRESS']]
+
+We had a great time at 1422 North Dawn Drive, playing games and enjoying snacks.
+[[23, 44, 'HOME_ADDRESS']]
+
+I stopped by 110 Seaton Place Northwest to check on their pets while they were on vacation.  
+[[13, 39, 'HOME_ADDRESS']]
+
+The lawn at 141 Parker Road looks great after the recent landscaping.
+[[12, 27, 'HOME_ADDRESS']]
+
+I helped my neighbor paint the walls at 901 Samson Road over the weekend.  
+[[40, 55, 'HOME_ADDRESS']]
+
+I went over to 15 Taft Street to help them rearrange their living room.
+[[15, 29, 'HOME_ADDRESS']]
+
+I went to 4075 North Cadillac Drive to assist with putting together some furniture.  
+[[10, 35, 'HOME_ADDRESS']]
+
+I spent the day at 2236 Susitna Drive helping my friend with a DIY project.
+[[19, 37, 'HOME_ADDRESS']]
+
+We spent the afternoon at 491 Arabian Way, working on some home renovations.  
+[[26, 41, 'HOME_ADDRESS']]
+
+I have some friends who just moved to 756 Neponset Street last month.  
+[[38, 57, 'HOME_ADDRESS']]
+
+We had a fun barbecue at 10304 North 179th Drive to kick off the summer.  
+[[25, 48, 'HOME_ADDRESS']]
+
+I took a bus to 7804 Abercorn Street after the meeting ended.
+[[16, 36, 'HOME_ADDRESS']]
+
+I stopped by 3325 Dix Street Northeast to help them set up their new home office.  
+[[13, 38, 'HOME_ADDRESS']]
+
+We plan to spend the whole day at 95 Middle Turnpike West enjoying the sunny weather.  
+[[34, 57, 'HOME_ADDRESS']]
+
+I went to 84 Holbrook Street to help them set up their new kitchen.  
+[[10, 28, 'HOME_ADDRESS']]
+
+We celebrated my cousin’s birthday at 224 Michael Sears Road.
+[[38, 60, 'HOME_ADDRESS']]
+
+We had a family reunion at 61 Plymouth Lane and it was so much fun.  
+[[27, 43, 'HOME_ADDRESS']]
+
+I visited 2936 State Avenue to drop off a housewarming gift for them.  
+[[10, 27, 'HOME_ADDRESS']]
+
+He called me from 1309 Southwest 71st Terrace earlier today.
+[[18, 45, 'HOME_ADDRESS']]
+
+I dropped by 1123 Ardee Avenue to return the books I borrowed last week.  
+[[13, 30, 'HOME_ADDRESS']]
+
+I spent the night at 7607 Beulah Church Road after a long day of work.  
+[[21, 44, 'HOME_ADDRESS']]
+
+We took a family photo at 3620 Bentfield Drive during the holiday season.  
+[[26, 46, 'HOME_ADDRESS']]
+
+I went to 621 Northwest 94th Street to help with their home improvement project.  
+[[10, 35, 'HOME_ADDRESS']]
+
+I stopped by 1405 Mercedes Avenue to drop off some fresh flowers for their garden.  
+[[13, 33, 'HOME_ADDRESS']]
+
+I grew up visiting 57413 Taku Avenue every summer.
+[[19, 36, 'HOME_ADDRESS']]
+
+I dropped by 7 Oliver Street for a quick coffee and chat yesterday.  
+[[13, 28, 'HOME_ADDRESS']]
+
+We spent the afternoon at 18 Hamilton Street Northwest, planting new flowers in the garden.  
+[[26, 54, 'HOME_ADDRESS']]
+
+We had a family game night at 5102 Ander Drive last night.
+[[30, 46, 'HOME_ADDRESS']]
+
+I visited 900 Dupont Road to help them with some home repairs.  
+[[10, 25, 'HOME_ADDRESS']]
+
+The previous owners left the house at 111 Edgewater Road in great condition.  
+[[38, 56, 'HOME_ADDRESS']]
+
+The family at 1216 West Hill Street always decorates for the holidays.
+[[14, 35, 'HOME_ADDRESS']]
+
+The realtor showed me the house at 1771 Daisey Court.
+[[35, 52, 'HOME_ADDRESS']]
+
+The party invitations were sent to 3901 Old Seward Highway.
+[[35, 58, 'HOME_ADDRESS']]
+
+We went to 262 Mitchell Street for a family dinner and had a great time.  
+[[11, 30, 'HOME_ADDRESS']]
+
+We spent the day at 1 Blue Jay Terrace, getting ready for the holidays.  
+[[20, 38, 'HOME_ADDRESS']]
+
+We had a fun barbecue at 3001 Spyglass Hill Road to kick off the summer.  
+[[25, 48, 'HOME_ADDRESS']]
+
+We had a cozy evening at 5300 Robinwood Road, enjoying board games and snacks.  
+[[25, 44, 'HOME_ADDRESS']]
+
+I left my jacket at 1120 Mitchell Young Road after the party.
+[[20, 44, 'HOME_ADDRESS']]
+
+I stayed with friends at 11 Proctor Circle while I was in town.
+[[25, 42, 'HOME_ADDRESS']]
+
+I noticed a new birdbath in the garden at 832 51st Street Northeast when I visited.  
+[[42, 67, 'HOME_ADDRESS']]
+
+I bought a new coffee machine and set it up at 512 Danley Court.  
+[[47, 63, 'HOME_ADDRESS']]
+
+The concert tickets arrived at 435 Benita Drive yesterday.
+[[31, 47, 'HOME_ADDRESS']]
+
+The house at 416 McIver Street is located in a quiet cul-de-sac.  
+[[13, 30, 'HOME_ADDRESS']]
+
+I went to 2315 Chestnut Street to help them set up their new TV.  
+[[10, 30, 'HOME_ADDRESS']]
+
+They put up new curtains at 5024 Ryan Drive to match the living room.  
+[[28, 43, 'HOME_ADDRESS']]
+
+He lived at 1822 North Grand Avenue for 15 years before moving away.
+[[12, 35, 'HOME_ADDRESS']]
+
+We had a lovely dinner at 1516 Ringe Drive with homemade pizza.  
+[[26, 42, 'HOME_ADDRESS']]
+
+They decided to rent out their property at 5337 West Wheeler Road.
+[[43, 65, 'HOME_ADDRESS']]
+
+The new homeowners at 4516 Old Seward Highway are very friendly and welcoming.  
+[[22, 45, 'HOME_ADDRESS']]
+
+I went to 7041 Dover Avenue to help install new curtains in the living room.  
+[[10, 27, 'HOME_ADDRESS']]
+
+We spent the afternoon at 403 Turkey Creek Road, setting up the living room.  
+[[26, 47, 'HOME_ADDRESS']]
+
+I visited 6880 Xavier Circle to help them clean up after their move.  
+[[10, 28, 'HOME_ADDRESS']]
+
+We had a relaxing weekend at 8726 Downey Road with lots of good food and company.  
+[[29, 45, 'HOME_ADDRESS']]
+
+We had a great time at 16910 Alpine Drive during the summer barbecue.  
+[[23, 41, 'HOME_ADDRESS']]
+
+I visited 238 West Rock Street to help them set up a new lamp in the living room.  
+[[10, 30, 'HOME_ADDRESS']]
+
+We went to a concert near 6407 West Monte Cristo Avenue last night and had a blast.  
+[[26, 55, 'HOME_ADDRESS']]
+
+I went to 740 East 34th Street to visit my sister and her new puppy.  
+[[10, 30, 'HOME_ADDRESS']]
+
+I went over to 716 O Street to help them install new shelves in the living room.  
+[[15, 27, 'HOME_ADDRESS']]
+
+We went to a local café near 1608 Gales Street Northeast for breakfast.  
+[[29, 56, 'HOME_ADDRESS']]
+
+They hosted a Thanksgiving dinner at 6862 North 44th Avenue last year.
+[[37, 59, 'HOME_ADDRESS']]
+
+My uncle’s house is located at 420 Cove Villa Street and I visit often.  
+[[31, 52, 'HOME_ADDRESS']]
+
+I helped my neighbor paint the walls at 134 Butternut Road over the weekend.  
+[[40, 58, 'HOME_ADDRESS']]
+
+The house at 2927 Martin Luther King Junior Avenue Southeast has a spacious front porch where they like to relax.  
+[[13, 60, 'HOME_ADDRESS']]
+
+I visited 5113 Southeast 51st Street to help them with some home repairs.  
+[[10, 36, 'HOME_ADDRESS']]
+
+We spent the day at 30451 Servilla Place fixing up the garden.  
+[[20, 40, 'HOME_ADDRESS']]
+
+I walked past 2010 Rising Hill Drive on my way to the park this morning.  
+[[14, 36, 'HOME_ADDRESS']]
+
+I finally bought my first house at 4807 North Grove Avenue last year.  
+[[35, 58, 'HOME_ADDRESS']]
+
+My cousin’s wedding was held at 2721 Lindsay Avenue.
+[[32, 51, 'HOME_ADDRESS']]
+
+I visited 200 Boulder Road to drop off a housewarming gift for them.  
+[[10, 26, 'HOME_ADDRESS']]
+
+We had a fun evening at 4940 Fuller Road with a family game night.  
+[[24, 40, 'HOME_ADDRESS']]
+
+I went over to 17 West 26th Circle to return some tools they loaned me.  
+[[15, 34, 'HOME_ADDRESS']]
+
+I went to 2262 Hall Place Northwest to assist with organizing their garage.  
+[[10, 35, 'HOME_ADDRESS']]
+
+I noticed the new landscaping at 3013 Sprowl Road when I walked by.  
+[[33, 49, 'HOME_ADDRESS']]
+
+We spent the evening at 1333 Kenyon Street Northwest, talking about old memories.  
+[[24, 52, 'HOME_ADDRESS']]
+
+I spent the afternoon playing games at 3469 North Par Court with my little brother.  
+[[39, 59, 'HOME_ADDRESS']]
+
+We spent the afternoon cleaning up the garage at 6730 North 59th Drive.  
+[[49, 70, 'HOME_ADDRESS']]
+
+We had a cozy evening at 7111 North 75th Avenue watching movies and chatting.  
+[[25, 47, 'HOME_ADDRESS']]
+
+I helped my aunt decorate for the holidays at 2500 Snowdoun Chambers Road.  
+[[46, 73, 'HOME_ADDRESS']]
+
+I went to pick up my car from 11 Eclipse Court earlier today.  
+[[30, 46, 'HOME_ADDRESS']]
+
+I noticed the new garden shed at 4108 Kogru Place in the backyard.  
+[[33, 49, 'HOME_ADDRESS']]
+
+We had a barbecue in the backyard of 720 Southwest 2nd Street last weekend.
+[[37, 61, 'HOME_ADDRESS']]
+
+I helped my friend rearrange the furniture at 169 Wachusett Street last weekend.  
+[[46, 66, 'HOME_ADDRESS']]
+
+I stayed at 6420 Via Baron for a few days while my place was being painted.  
+[[12, 26, 'HOME_ADDRESS']]
+
+I dropped by 2433 Southwest 36th Street for a quick coffee and chat yesterday.  
+[[13, 39, 'HOME_ADDRESS']]
+
+We’re moving into a new house at 2755 Country Drive next week.  
+[[33, 51, 'HOME_ADDRESS']]
+
+I finally bought my first house at 743 East 9th Avenue last year.  
+[[35, 54, 'HOME_ADDRESS']]
+
